@@ -1106,6 +1106,14 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>第１６条 社員総会は、法令に別段の定めがある場合を除き、代表理事が招集する。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T232431Z" creationid="miurahr" creationdate="20141229T232431Z">
+        <seg>Section 16 The general meeting shall be called by representative director, without a provision of the law particularly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>第１８条 社員総会は正会員の議決権総数の過半数以上の出席で成立し、その議事は出席会員の議決権数の過半数で決するものとする。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015106Z" creationid="miurahr" creationdate="20141229T015106Z">
@@ -1495,6 +1503,14 @@ Section 6. There shall be three classes of membership in this corporation as fol
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T020500Z" creationid="miurahr" creationdate="20141229T020500Z">
         <seg>ARTICLE IX  Secretariat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>総会を招集する場合は、少なくとも会日の2週間前までに開催の日時、場所及び付議事項を記載した書面または電磁的方法で会員に通知しなければならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T232608Z" creationid="miurahr" creationdate="20141229T232608Z">
+        <seg>The representative director shall notify  the meeting to general members  in at least 2 week before the meeting date, attached a document or electronic document with meeting date, location and agenda.</seg>
       </tuv>
     </tu>
     <tu>
