@@ -6,3 +6,6 @@
 オープンストリートマップ財団	OpenStreetMap Foundation
 一般社団法人	General Society Association
 地図情報	geospatial information
+一般社団法人及び一般財団法人に関する法律	the law of the general society association and general foundation association
+定款	bylaw
+法人法	the association law
