@@ -14,6 +14,30 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>&lt;/f2&gt;&lt;f4&gt;第３条 当法人は、自由な地図情報の構築と普及のために世界的に活動するオープンストリートマップ&lt;/f4&gt;&lt;f5&gt;(&lt;/f5&gt;&lt;f6&gt;通称&lt;/f6&gt;&lt;f7&gt;:OSM)&lt;/f7&gt;&lt;f8&gt;の活動趣旨に賛同し、日本国における自由な地図情報および日本語による世界の自由な地図情報の発展とそれに伴う技術発展を促進するとともに、オープンストリートマップ財団（&lt;/f8&gt;&lt;f9&gt;2006&lt;/f9&gt;&lt;f10&gt;年&lt;/f10&gt;&lt;f11&gt;8&lt;/f11&gt;&lt;f12&gt;月&lt;/f12&gt;&lt;f13&gt;26&lt;/f13&gt;&lt;f14&gt;日設立、本部&lt;/f14&gt;&lt;f15&gt;:&lt;/f15&gt;&lt;f16&gt;グレート・ブリテンおよび北アイルランド連合王国）&lt;/f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;f18&gt;英語名称&lt;/f18&gt;&lt;f19&gt;: OpenStreetMap Foundation, &lt;/f19&gt;&lt;f20&gt;略称：&lt;/f20&gt;&lt;f21&gt;OSMF)&lt;/f21&gt;&lt;f22&gt;と連携して、健全なるコミュニティーの発展と自由な地図情報の推進を図ると共に、&lt;/f22&gt;&lt;f23&gt;OSM&lt;/f23&gt;&lt;f24&gt;の利用の促進によって、学術および科学技術の振興と、表現の自由の尊重と擁護、地域社会の健全な発展に資することを目的とし、次の事業を行う。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012056Z" creationid="miurahr" creationdate="20141229T011955Z">
+        <seg>&lt;/f2&gt;&lt;f4&gt;Section 3. This association is a nonprofit mutual benefit corporation, that  sympathize the purpose of &lt;/f4&gt;&lt;f5&gt;(&lt;/f5&gt;&lt;f6&gt;abbr.&lt;/f6&gt;&lt;f7&gt;:OSM)&lt;/f7&gt;&lt;f8&gt;  to aim to build and to promote free geospatial information in world wide,  and promote a development of  free geospatial global information in Japan and in Japanese, and promote technical innovation through OSM activities. We also shall collaborate with the OpenStreetMap Foundation(found in 26th, August &lt;/f8&gt;&lt;f9&gt;2006&lt;/f9&gt;&lt;f10&gt; in UK)&lt;/f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;f18&gt;英語名称&lt;/f18&gt;&lt;f19&gt;: OpenStreetMap Foundation, &lt;/f19&gt;&lt;f20&gt;Abbreviation:&lt;/f20&gt;&lt;f21&gt;OSMF)&lt;/f21&gt;. The purposes of this association include growing healthy community, promoting free geospatial information, and encourage academic, science  and technology improvement through promoting OSM utilization, and protecting the freedom of expression.&lt;f24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>&lt;/f2&gt;&lt;f4&gt;第４条 当法人は、第３条に定める目的に資するため、次の事業を行う。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012134Z" creationid="miurahr" creationdate="20141229T012134Z">
+        <seg>&lt;/f2&gt;&lt;f4&gt;Section 4. The association shall conduct the following business to pursue the purpose defined in section 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>&lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;事業&lt;/f1&gt;&lt;f2&gt;)&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012110Z" creationid="miurahr" creationdate="20141229T012110Z">
+        <seg>&lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;Business&lt;/f1&gt;&lt;f2&gt;)&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>&lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;名称&lt;/f1&gt;&lt;f2&gt;)&lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011044Z" creationid="miurahr" creationdate="20141229T011044Z">
