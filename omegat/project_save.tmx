@@ -6,6 +6,29 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="JA">
+        <seg>(1)OSMFの日本国内における代表窓口としての広報活動や外部組織対応
+(2)OSMに関する研究調査活動
+(3)OSMに関する普及・啓発・宣伝活動
+(4)OSMに関する地域活動に対して必要な助成、支援
+(5)OSMの発展のために、OSMに関連する諸団体との連携活動
+(6)OSMに関わる知的財産権の日本国における保護と維持管理
+(7)OSMの日本におけるインターネット・ドメイン名の保護と維持管理
+(8)前各号に掲げる事業に附帯又は関連する一切の事業</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013444Z" creationid="miurahr" creationdate="20141229T013444Z">
+        <seg>(1)Publicity and public relation as a representative contact in Japan.
+(2)Research and development around OSM
+(3)Promotion, enlightenment and advertisement 
+(4)Support and subsidy for regional activities
+(5)Cooperation with the associations related to the OSM for OSM improvement
+(6)Protecting and managing the intellectual properties  related to the OSM in Japan
+(7)Protecting and managing the internet domain name in Japan
+(8)Any other business incidental or relating to the businesses referred to in any of the foregoing items.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(2)OSM&lt;/f2&gt;&lt;f4&gt;に関する研究調査活動&lt;/f4&gt;&lt;f5&gt;&lt;br6/&gt;</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012330Z" creationid="miurahr" creationdate="20141229T012330Z">
@@ -66,6 +89,16 @@ Section 4. The association shall conduct the following business to pursue the pu
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(公告)
+第５条　当法人の公告は、官報に掲載する方法により行う。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013454Z" creationid="miurahr" creationdate="20141229T013416Z">
+        <seg>(Announcement)
+Section 5. This association announcement shall be done with the official gazette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(名称)
 第１条 当法人の名称は、一般社団法人オープンストリートマップ・ファウンデーション・ジャパンと称する。</seg>
       </tuv>
@@ -80,6 +113,16 @@ Section 4. The association shall conduct the following business to pursue the pu
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013001Z" creationid="miurahr" creationdate="20141229T013001Z">
         <seg>(Purpose) Section 3. This association is a nonprofit mutual benefit corporation, that  sympathize the purpose of OSM  to aim to build and to promote free geospatial information in world wide,  and promote a development of  free geospatial global information in Japan and in Japanese, and promote technical innovation through OSM activities.  We also shall collaborate with the OpenStreetMap Foundation(found in 26th, August 2006 in UK)(Abbreviation: OSMF) The purposes of this association include growing healthy community, promoting free geospatial information, and encourage academic, science  and technology improvement through promoting OSM utilization, and protecting the freedom of expression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(種別)
+第６条　当法人の会員は次の３種とし、正会員をもって一般社団法人及び一般財団法人に関する法律(平成18年法律第48号)(以下「法人法」という。) 上の社員とする。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013546Z" creationid="miurahr" creationdate="20141229T013527Z">
+        <seg>(Class of membership)
+Section 6. There shall be three classes of membership in this corporation as follows. The general member shall be recognized as employee in the law of the general society association and general foundation association (Law No48, Heisei 18 yr.)(hereafter the association law ).</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,6 +195,22 @@ Section 4. The association shall conduct the following business to pursue the pu
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011009Z" creationid="miurahr" creationdate="20141229T011009Z">
         <seg>﻿ByLaws of the OpenStreetMap Foundation Japan, General Society Association</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>以下、同法を一般法人法という。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013555Z" creationid="miurahr" creationdate="20141229T013555Z">
+        <seg> It shall be called as the General Association Law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第2章 会員</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013507Z" creationid="miurahr" creationdate="20141229T013507Z">
+        <seg>ARTICLE II MEMBERSHIP</seg>
       </tuv>
     </tu>
     <tu>
