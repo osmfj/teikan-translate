@@ -561,6 +561,14 @@ Section 5. This association announcement shall be done with the official gazette
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(最初の事業年度)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T025238Z" creationid="miurahr" creationdate="20141229T025238Z">
+        <seg>(First fiscial year)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(構成)</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015002Z" creationid="miurahr" creationdate="20141229T015002Z">
@@ -1362,6 +1370,14 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>第５２条 当法人の設立初年度の事業年度は、当法人の成立の日から平成２３年１０月末日までとする。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T025337Z" creationid="miurahr" creationdate="20141229T025337Z">
+        <seg>Section 52  First fiscal year of this association shall be from the day of establishment to end of October, 2011.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>第５３条　当法人の設立時役員は次の通りである。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T024934Z" creationid="miurahr" creationdate="20141229T024934Z">
@@ -1475,6 +1491,22 @@ Section 6. There shall be three classes of membership in this corporation as fol
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>設立時副理事長　古橋　大地</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T025139Z" creationid="miurahr" creationdate="20141229T025139Z">
+        <seg>Vice-president　Taichi Furuhashi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>設立時副理事長　藤澤　公也</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T025153Z" creationid="miurahr" creationdate="20141229T025153Z">
+        <seg>Vice-president  Kimiya Fujisawa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>設立時理事　三浦　広志</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T025049Z" creationid="miurahr" creationdate="20141229T025049Z">
@@ -1519,6 +1551,14 @@ Section 6. There shall be three classes of membership in this corporation as fol
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T025028Z" creationid="miurahr" creationdate="20141229T025028Z">
         <seg>Director Kimiya Fujisawa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>設立時監事　羽鳥　健太郎</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T025205Z" creationid="miurahr" creationdate="20141229T025205Z">
+        <seg>Auditor Kentaro Hatori</seg>
       </tuv>
     </tu>
     <tu>
