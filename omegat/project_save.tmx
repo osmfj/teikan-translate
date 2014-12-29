@@ -874,6 +874,14 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>代表理事　三浦　広志　　　　印</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T023420Z" creationid="miurahr" creationdate="20141229T023420Z">
+        <seg>Representative director  Hiroshi Miura　　　　(seal)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>以下、同法を一般法人法という。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013555Z" creationid="miurahr" creationdate="20141229T013555Z">
@@ -1367,6 +1375,22 @@ Section 6. There shall be three classes of membership in this corporation as fol
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012910Z" creationid="miurahr" creationdate="20141229T012910Z">
         <seg> An Abbreviation is OSMFジャパン(OSMF JAPAN) and English name is OpenStreetMap Foundation Japan (Abbreviation: OSMF Japan, synonym: OSMFJ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>（所在地）東京都北区神谷１丁目X番X－XXX号</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T023536Z" creationid="miurahr" creationdate="20141229T023536Z">
+        <seg>（Address）1-X-X-XXX, Kamiya, Kita-city, Tokyo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>（社名）一般社団法人オープンストリートマップ・ファウンデーション・ジャパン</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T023505Z" creationid="miurahr" creationdate="20141229T023505Z">
+        <seg>（name of company）﻿the OpenStreetMap Foundation Japan, General Society Association</seg>
       </tuv>
     </tu>
     <tu>
