@@ -4,6 +4,38 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.4" segtype="sentence" srclang="JA"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="JA">
+        <seg>&lt;/f2&gt;&lt;f4&gt;第１条 当法人の名称は、一般社団法人オープンストリートマップ・ファウンデーション・ジャパンと称する。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011119Z" creationid="miurahr" creationdate="20141229T011119Z">
+        <seg>&lt;/f2&gt;&lt;f4&gt;Section 1  A name of the association is 一般社団法人オープンストリートマップ・ファウンデーション・ジャパン(the OpenStreetMap Foundation Japan, General Society Association). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>&lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;名称&lt;/f1&gt;&lt;f2&gt;)&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011044Z" creationid="miurahr" creationdate="20141229T011044Z">
+        <seg>&lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;Name&lt;/f1&gt;&lt;f2&gt;)&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>一般社団法人オープンストリートマップ・ファウンデーション・ジャパン定款</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011009Z" creationid="miurahr" creationdate="20141229T011009Z">
+        <seg>﻿ByLaws of the OpenStreetMap Foundation Japan, General Society Association</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>総則</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011034Z" creationid="miurahr" creationdate="20141229T011034Z">
+        <seg>ARTICLE I  GENERAL PROVISIONS</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
