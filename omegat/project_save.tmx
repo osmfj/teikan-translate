@@ -569,6 +569,14 @@ Section 5. This association announcement shall be done with the official gazette
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(実施細則)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T233041Z" creationid="miurahr" creationdate="20141229T233041Z">
+        <seg>(detailed regulations)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(役員の損害賠償責任の一部免除)</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015400Z" creationid="miurahr" creationdate="20141229T015400Z">
@@ -1098,6 +1106,14 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>第１０章 雑 則</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T233026Z" creationid="miurahr" creationdate="20141229T233026Z">
+        <seg>ARTICLE X Miscellaneous</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>第１１条 前２条のほか、会員は、次のいずれかに該当するに至ったときは、その資格を喪失する。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014947Z" creationid="miurahr" creationdate="20141229T014947Z">
@@ -1446,6 +1462,22 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015406Z" creationid="miurahr" creationdate="20141229T015406Z">
         <seg>ARTICLE  V  Board of directors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第５０条 事務局の組織及び運営に関し必要な事項は、総会の議決を経て、代表理事が別に定める。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T232951Z" creationid="miurahr" creationdate="20141229T232951Z">
+        <seg>Section 50 Items which are required to operate and its organization shall be decided by the representative director with resolution of the general meeting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第５１条 この定款の実施に関して必要な事項は、理事会の議決を得て、別に定める。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T233227Z" creationid="miurahr" creationdate="20141229T233227Z">
+        <seg>Section 51 Matters to execute this articles of incorporation shall be decided separately with resolution on board of directors.</seg>
       </tuv>
     </tu>
     <tu>
