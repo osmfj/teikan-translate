@@ -4,3 +4,5 @@
 当法人	This association
 社員総会	General Meeting
 オープンストリートマップ財団	OpenStreetMap Foundation
+一般社団法人	General Society Association
+地図情報	geospatial information
