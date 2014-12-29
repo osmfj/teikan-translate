@@ -1,0 +1,6 @@
+入会金	entrance fee
+会費	membership due
+オープンストリートマップ	OpenStreetMap
+当法人	This association
+社員総会	General Meeting
+オープンストリートマップ財団	OpenStreetMap Foundation

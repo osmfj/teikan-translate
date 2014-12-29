@@ -1,3 +1,5 @@
 omegat/ignored_words.txt
 omegat/learned_words.txt
 omegat/project_stats.txt
+omegat/project_save.tmx.*bak
+credentials.properties
