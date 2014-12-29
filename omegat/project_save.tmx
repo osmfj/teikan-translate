@@ -29,6 +29,18 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(1)本定款その他の規約に違反したとき
+(2)当法人の名誉を棄損又は当法人の目的に著しく反する行為をしたとき
+(3)その他除名すべき正当な事由があるとき</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014007Z" creationid="miurahr" creationdate="20141229T014007Z">
+        <seg>(1) Who violate this bylaw and/or other rules
+(2) Who libeled this association and/or act  against the purpose of  this association remarkably
+(3)When there is rightful reason to be expulsion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(1)正会員　当法人の目的に賛同し入会した個人
 (2)賛助会員　当法人の事業を援助するために入会した個人又は法人
 (3)特別会員　当法人の運営に必要であると理事会が認める公共団体、公益法人もしくはこれに準じる法人の中から選ばれた個人又は法人
