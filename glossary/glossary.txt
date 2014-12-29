@@ -15,3 +15,4 @@
 損益計算書	profit-and-loss statement
 貸借対照表	balance sheet
 印	seal
+年度	fiscal year
