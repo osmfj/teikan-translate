@@ -29,6 +29,23 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(1)正会員　当法人の目的に賛同し入会した個人
+(2)賛助会員　当法人の事業を援助するために入会した個人又は法人
+(3)特別会員　当法人の運営に必要であると理事会が認める公共団体、公益法人もしくはこれに準じる法人の中から選ばれた個人又は法人
+ 
+(入会)
+第７条 当法人の会員として入会しようとする者は、理事会の定める手続により、申し込み、理事会の承認を得なければならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013717Z" creationid="miurahr" creationdate="20141229T013717Z">
+        <seg>(1)General member   natural person  who approve the purpose of this association
+(2)Supporting member  natural person or legal person who support the business of this association
+(3)Special member   natural person or legal person admit the Board to be necessary for the operation, who selected from  public body, public-service corporation and/or similar corporation. 
+(Admission)
+Section 7. Admission of members shall be made by the Board upon a determination by the Executive Director that the member meets the qualifications established for membership as set forth in these Bylaws.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(2)OSM&lt;/f2&gt;&lt;f4&gt;に関する研究調査活動&lt;/f4&gt;&lt;f5&gt;&lt;br6/&gt;</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012330Z" creationid="miurahr" creationdate="20141229T012330Z">
@@ -127,6 +144,36 @@ Section 6. There shall be three classes of membership in this corporation as fol
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(経費負担)
+第８条 会員は、社員総会において別に定める入会金及び会費を納入しなければならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013756Z" creationid="miurahr" creationdate="20141229T013756Z">
+        <seg>(Dues and Fees)
+Section 8. The member shall pay an entrance fee and a membership due which separately determined by the general meeting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(退会)
+第９条 会員は、社員総会において別に定めるところにより届け出ることにより、任意に退会することができる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013825Z" creationid="miurahr" creationdate="20141229T013814Z">
+        <seg>(Termination of membership)
+Section 9.  The member may be terminated the membership after giving written notice of the termination by the way which separately determined by the general meeting. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(除名)
+第１０条 会員が、次のいずれかに該当するに至ったときは、社員総会の特別決議によって当該会員を除名することができる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013918Z" creationid="miurahr" creationdate="20141229T013918Z">
+        <seg>(Expulsion)
+Section 10.  Expulsion of a member can be decided by a special resolution of a general meeting, in a situations as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>1.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012818Z" creationid="miurahr" creationdate="20141229T012818Z">
@@ -187,6 +234,14 @@ Section 6. There shall be three classes of membership in this corporation as fol
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011439Z" creationid="miurahr" creationdate="20141229T011439Z">
         <seg>&lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;Purpose&lt;/f1&gt;&lt;f2&gt;)&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ただし、１か月以上前に当法人に対して予告をするものとする。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013833Z" creationid="miurahr" creationdate="20141229T013833Z">
+        <seg>The member shall foretell it  at least 1 month before the day  about to be  terminated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -255,10 +310,26 @@ Section 6. There shall be three classes of membership in this corporation as fol
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>２ 理事会は、正当な事由がない限り、前項の者の入社を認めなければならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013732Z" creationid="miurahr" creationdate="20141229T013732Z">
+        <seg>Section 7.2  The board shall admit a person in previous section except for fair reason.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>２　当法人は、社員総会の決議により従たる事務所を必要な場所に置くことができる。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012929Z" creationid="miurahr" creationdate="20141229T012929Z">
         <seg>Section 2.2 Branch or subordinate offices may at any time be established by the resolution of the General Meeting at any place or places where this association  is qualified to do business.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>３　理事会は、前１項の者の入会を認めないときは、速やかに、事由を付した書面をもって本人にその旨を通知しなければならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013738Z" creationid="miurahr" creationdate="20141229T013738Z">
+        <seg>Section 7.3.  The board shall notify the reason by letter, as soon as possible, to an original person, when the board decided not to admit.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
