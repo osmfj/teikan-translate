@@ -1,0 +1,1327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.1">
+<header creationtool="Bitext2tmx" creationtoolversion="0.91" segtype="sentence" o-tmf="Bitext2tmx" adminlang="en" srclang="ja" datatype="PlainText"  o-encoding="UTF-8">
+</header>
+<body>
+<tu tuid="0" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>﻿一般社団法人オープンストリートマップ・ファウンデーション・ジャパン定款</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>﻿ByLaws of the OpenStreetMap Foundation Japan, General Society Association</seg>
+  </tuv>
+</tu>
+<tu tuid="1" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>1. 総則</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>ARTICLE I  GENERAL PROVISIONS</seg>
+  </tuv>
+</tu>
+<tu tuid="2" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(名称)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Name)</seg>
+  </tuv>
+</tu>
+<tu tuid="3" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第１条 当法人の名称は、一般社団法人オープンストリートマップ・ファウンデーション・ジャパンと称する。通称はOSMFジャパンとし、英語名称は、 OpenStreetMap Foundation Japan (通称:OSMF Japan、略称:OSMFJ)と称する。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 1  A name of the association is 一般社団法人オープンストリートマップ・ファウンデーション・ジャパン(the OpenStreetMap Foundation Japan, General Society Association). An Abbreviation is OSMFジャパン(OSMF JAPAN) and English name is OpenStreetMap Foundation Japan (Abbreviation: OSMF Japan, synonym: OSMFJ).</seg>
+  </tuv>
+</tu>
+<tu tuid="4" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(Office)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Office)</seg>
+  </tuv>
+</tu>
+<tu tuid="5" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第２条 当法人は、主たる事務所を東京都北区に置く。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 2.  The principal office for the transaction of the business of this association shall be located in the Kita city of Tokyo.</seg>
+  </tuv>
+</tu>
+<tu tuid="6" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>２　当法人は、社員総会の決議により従たる事務所を必要な場所に置くことができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 2.2 Branch or subordinate offices may at any time be established by the resolution of the General Meeting at any place or places where this association  is qualified to do business.</seg>
+  </tuv>
+</tu>
+<tu tuid="7" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(目的)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Purpose)</seg>
+  </tuv>
+</tu>
+<tu tuid="8" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第３条 当法人は、自由な地図情報の構築と普及のために世界的に活動するオープンストリートマップ(通称:OSM)の活動趣旨に賛同し、日本国における自由な地図情報および日本語による世界の自由な地図情報の発展とそれに伴う技術発展を促進するとともに、オープンストリートマップ財団（2006年8月26日設立、本部:グレート・ブリテンおよび北アイルランド連合王国）(英語名称: OpenStreetMap Foundation, 略称：OSMF)と連携して、健全なるコミュニティーの発展と自由な地図情報の推進を図ると共に、OSMの利用の促進によって、学術および科学技術の振興と、表現の自由の尊重と擁護、地域社会の健全な発展に資することを目的とし、次の事業を行う。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 3. This association is a nonprofit mutual benefit corporation, that  sympathize the purpose of OSM  to aim to build and to promote free geospatial information in world wide,  and promote a development of  free geospatial global information in Japan and in Japanese, and promote technical innovation through OSM activities.  We also shall collaborate with the OpenStreetMap Foundation(found in 26th, August 2006 in UK)(Abbreviation: OSMF) The purposes of this association include growing healthy community, promoting free geospatial information, and encourage academic, science  and technology improvement through promoting OSM utilization, and protecting the freedom of expression.</seg>
+  </tuv>
+</tu>
+<tu tuid="9" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(事業)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Business)</seg>
+  </tuv>
+</tu>
+<tu tuid="10" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第４条 当法人は、第３条に定める目的に資するため、次の事業を行う。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 4. The association shall conduct the following business to pursue the purpose defined in section 3.</seg>
+  </tuv>
+</tu>
+<tu tuid="11" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(1)OSMFの日本国内における代表窓口としての広報活動や外部組織対応</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(1)Publicity and public relation as a representative contact in Japan.</seg>
+  </tuv>
+</tu>
+<tu tuid="12" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(2)OSMに関する研究調査活動</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(2)Research and development around OSM</seg>
+  </tuv>
+</tu>
+<tu tuid="13" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(3)OSMに関する普及・啓発・宣伝活動</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(3)Promotion, enlightenment and advertisement</seg>
+  </tuv>
+</tu>
+<tu tuid="14" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(4)OSMに関する地域活動に対して必要な助成、支援</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(4)Support and subsidy for regional activities</seg>
+  </tuv>
+</tu>
+<tu tuid="15" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(5)OSMの発展のために、OSMに関連する諸団体との連携活動</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(5)Cooperation with the associations related to the OSM for OSM improvement</seg>
+  </tuv>
+</tu>
+<tu tuid="16" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(6)OSMに関わる知的財産権の日本国における保護と維持管理</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(6)Protecting and managing the intellectual properties  related to the OSM in Japan</seg>
+  </tuv>
+</tu>
+<tu tuid="17" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(7)OSMの日本におけるインターネット・ドメイン名の保護と維持管理</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(7)Protecting and managing the internet domain name in Japan</seg>
+  </tuv>
+</tu>
+<tu tuid="18" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(8)前各号に掲げる事業に附帯又は関連する一切の事業</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(8)Any other business incidental or relating to the businesses referred to in any of the foregoing items.</seg>
+  </tuv>
+</tu>
+<tu tuid="19" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(公告)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Announcement)</seg>
+  </tuv>
+</tu>
+<tu tuid="20" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第５条　当法人の公告は、官報に掲載する方法により行う。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 5. This association announcement shall be done with the official gazette.</seg>
+  </tuv>
+</tu>
+<tu tuid="21" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第2章 会員</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>ARTICLE II MEMBERSHIP</seg>
+  </tuv>
+</tu>
+<tu tuid="22" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第６条　当法人の会員は次の３種とし、正会員をもって一般社団法人及び一般財団法人に関する法律(平成18年法律第48号)(以下「法人法」という。) 上の社員とする。以下、同法を一般法人法という。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 6. There shall be three classes of membership in this corporation as follows. The general member shall be recognized as employee in the law of the general society association and general foundation association (Law No48, Heisei 18 yr.)(hereafter the association law ). It shall be called as the General Association Law.</seg>
+  </tuv>
+</tu>
+<tu tuid="23" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(1)正会員　当法人の目的に賛同し入会した個人</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(1) General member   natural person  who approve the purpose of this association</seg>
+  </tuv>
+</tu>
+<tu tuid="24" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(2)賛助会員　当法人の事業を援助するために入会した個人又は法人</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(2)Supporting member  natural person or legal person who support the business of this association</seg>
+  </tuv>
+</tu>
+<tu tuid="25" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(3)特別会員　当法人の運営に必要であると理事会が認める公共団体、公益法人もしくはこれに準じる法人の中から選ばれた個人又は法人</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(3)Special member   natural person or legal person admit the Board to be necessary for the operation, who selected from  public body, public-service corporation and/or similar corporation.</seg>
+  </tuv>
+</tu>
+<tu tuid="26" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(入会)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Admission)</seg>
+  </tuv>
+</tu>
+<tu tuid="27" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第７条 当法人の会員として入会しようとする者は、理事会の定める手続により、申し込み、理事会の承認を得なければならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 7. Admission of members shall be made by the Board upon a determination by the Executive Director that the member meets the qualifications established for membership as set forth in these Bylaws.</seg>
+  </tuv>
+</tu>
+<tu tuid="28" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>２ 理事会は、正当な事由がない限り、前項の者の入社を認めなければならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 7.2  The board shall admit a person in previous section except for fair reason.</seg>
+  </tuv>
+</tu>
+<tu tuid="29" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>３　理事会は、前１項の者の入会を認めないときは、速やかに、事由を付した書面をもって本人にその旨を通知しなければならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 7.3.  The board shall notify the reason by letter, as soon as possible, to an original person, when the board decided not to admit.</seg>
+  </tuv>
+</tu>
+<tu tuid="30" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(経費負担)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Dues and Fees)</seg>
+  </tuv>
+</tu>
+<tu tuid="31" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第８条 会員は、社員総会において別に定める入会金及び会費を納入しなければならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 8. The member shall pay an entrance fee and a membership due which separately determined by the general meeting</seg>
+  </tuv>
+</tu>
+<tu tuid="32" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(退会)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Termination of membership)</seg>
+  </tuv>
+</tu>
+<tu tuid="33" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第９条 会員は、社員総会において別に定めるところにより届け出ることにより、任意に退会することができる。ただし、１か月以上前に当法人に対して予告をするものとする。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 9.  The member may be terminated the membership after giving written notice of the termination by the way which separately determined by the general meeting. The member shall foretell it  at least 1 month before the day  about to be  terminated.</seg>
+  </tuv>
+</tu>
+<tu tuid="34" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(除名)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Expulsion)</seg>
+  </tuv>
+</tu>
+<tu tuid="35" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第１０条 会員が、次のいずれかに該当するに至ったときは、社員総会の特別決議によって当該会員を除名することができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 10.  Expulsion of a member can be decided by a special resolution of a general meeting, in a situations as follows:</seg>
+  </tuv>
+</tu>
+<tu tuid="36" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(1)本定款その他の規約に違反したとき</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(1) Who violate this bylaw and/or other rules</seg>
+  </tuv>
+</tu>
+<tu tuid="37" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(2)当法人の名誉を棄損又は当法人の目的に著しく反する行為をしたとき</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(2)Who libeled this association and/or act  against the purpose of  this association remarkably</seg>
+  </tuv>
+</tu>
+<tu tuid="38" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(3)その他除名すべき正当な事由があるとき</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(3) When there is rightful reason to be expulsion.</seg>
+  </tuv>
+</tu>
+<tu tuid="39" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(会員の資格の喪失)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(disqualification)</seg>
+  </tuv>
+</tu>
+<tu tuid="40" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第１１条 前２条のほか、会員は、次のいずれかに該当するに至ったときは、その資格を喪失する。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 11.  A member  may disqualify its right when it becomes following case;</seg>
+  </tuv>
+</tu>
+<tu tuid="41" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第３章 社員総会</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>ARTICLE III  GENERAL MEETING</seg>
+  </tuv>
+</tu>
+<tu tuid="42" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(種別)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Type of meetings)</seg>
+  </tuv>
+</tu>
+<tu tuid="43" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第１３条　当法人の社員総会は、定時社員総会及び臨時社員総会の２種とする。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 13. There shall be two types of the general meetings; Annual general meeting and special general meeting</seg>
+  </tuv>
+</tu>
+<tu tuid="44" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(構成)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Constituent)</seg>
+  </tuv>
+</tu>
+<tu tuid="45" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第１４条 社員総会は、正会員をもって構成する。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 14.  General meeting shall be constituted with general members.</seg>
+  </tuv>
+</tu>
+<tu tuid="46" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>2.</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 14.2.</seg>
+  </tuv>
+</tu>
+<tu tuid="47" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>前項の総会をもって法人法上の社員総会とする。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>It shall be as general meeting in the association law</seg>
+  </tuv>
+</tu>
+<tu tuid="48" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(開催)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(organize)</seg>
+  </tuv>
+</tu>
+<tu tuid="49" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第１５条　定時社員総会は本法人の毎会計年度終了後３ヶ月以内に開催し、臨時社員総会は、必要に応じて開催する。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 15. The general meeting shall be called in at least 3 month after end of annual year of this association  special general meeting may be called when it is necessary.</seg>
+  </tuv>
+</tu>
+<tu tuid="50" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(招集)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Call for meeting)</seg>
+  </tuv>
+</tu>
+<tu tuid="51" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第１６条 社員総会は、法令に別段の定めがある場合を除き、代表理事が招集する。総会を招集する場合は、少なくとも会日の2週間前までに開催の日時、場所及び付議事項を記載した書面または電磁的方法で会員に通知しなければならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 16.  The general meeting shall be called by the Representative Director, except as other reason provided by law. The representative director shall notify  the meeting to general members  in at least 2 week before the meeting date, attached a document or electronic document with meeting date, location and agenda.</seg>
+  </tuv>
+</tu>
+<tu tuid="52" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>２ 総正会員の議決権の５分の１以上を有する正会員は、代表理事に対し、社員総会の目的である事項及び招集の理由を示して、社員総会招集の請求をすることができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 16.2.  A general member who has endorsements of  ⅕ of voting rights can request a call of   general meeting to the representative director,  with submitting a purpose and a reason.</seg>
+  </tuv>
+</tu>
+<tu tuid="53" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(議長)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(chairperson)</seg>
+  </tuv>
+</tu>
+<tu tuid="54" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第１７条　社員総会の議長は、代表理事がこれに当たる。代表理事に事故あるときは、その社員総会において、出席した正会員の中から議長を選出する。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 17.  Representative director take a role of a chairperson of the general meeting. When there is a problem with representative director, a chairperson shall be selected from general member who attend the general meeting.</seg>
+  </tuv>
+</tu>
+<tu tuid="55" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(決議)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Quorum and Voting )</seg>
+  </tuv>
+</tu>
+<tu tuid="56" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第１８条 社員総会は正会員の議決権総数の過半数以上の出席で成立し、その議事は出席会員の議決権数の過半数で決するものとする。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 18.   The quorum of general meeting shall be over a half of voting rights. The  resolution  is decided by a majority of voting rights.</seg>
+  </tuv>
+</tu>
+<tu tuid="57" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>2 前項の規定により議決権を行使した会員は、総会に出席したものとみなす。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 18.2  A member who act a vote based on section 18 rule  recognized as attend to the general meeting.</seg>
+  </tuv>
+</tu>
+<tu tuid="58" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第１９条 社員総会に出席できない会員は、予め通知された事項について書面または理事会が定める電磁的方法をもって議決権を行使し、又は他の正会員を代理人として議決権を行使することができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section19 A member who cannot attend the general meeting can act a right to vote by a way that is notified in advance or an electrical way that is defined beforehand in the board of director,  or other member can act as proxy of the member as a delegate.</seg>
+  </tuv>
+</tu>
+<tu tuid="59" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>2 前項の規定により議決権を行使した会員は、総会に出席したものとみなす。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 19.2  A member who act a vote based on section 19 rule  recognized as attend to the general meeting.</seg>
+  </tuv>
+</tu>
+<tu tuid="60" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第２０条 社員総会は法令及び本定款に別に定める事項のほか次の事項を議決する。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 20. Following items shall be decided by a general meeting, addition with the items,  prescribed  in law and defined in another part of  this bylaw;</seg>
+  </tuv>
+</tu>
+<tu tuid="61" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(1) 本定款の変更</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(1) Change of bylaws</seg>
+  </tuv>
+</tu>
+<tu tuid="62" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(2) 当法人の解散及び合併</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(2) dissolution and merger of this association</seg>
+  </tuv>
+</tu>
+<tu tuid="63" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(3) 事業計画及び収支予算</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(3) business  and budget plan</seg>
+  </tuv>
+</tu>
+<tu tuid="64" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(4) 事業報告及び収支決算</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(4) business report and statement of account</seg>
+  </tuv>
+</tu>
+<tu tuid="65" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(5) 役員の選出、解任及び報酬</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(5) selection, dismissal and reward of officers</seg>
+  </tuv>
+</tu>
+<tu tuid="66" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(6) その他、理事会が必要と認めた当法人の運営に関する重要事項</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(6) Any other important issues of business on this association, that board  of directors admit</seg>
+  </tuv>
+</tu>
+<tu tuid="67" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(議事録)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Minutes)</seg>
+  </tuv>
+</tu>
+<tu tuid="68" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第２１条 社員総会の議事については、次の事項、その他法令に定める事項を記載した議事録を作成しなければならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 21. This association shall make minutes of general meeting includes following items and other items defined in the law.</seg>
+  </tuv>
+</tu>
+<tu tuid="69" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(2) 正会員総数及び出席者数(書面票決者又は票決委任者がある場合は、その数を付記すること)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(2) Number of general members and number of participants ( Addition with number of delegates and proxies)</seg>
+  </tuv>
+</tu>
+<tu tuid="70" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(3) 審議事項</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(3)  discussion items</seg>
+  </tuv>
+</tu>
+<tu tuid="71" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(4) 議事の経過の要領及びその結果</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(4) Result and abstract of discussion process</seg>
+  </tuv>
+</tu>
+<tu tuid="72" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>2 議事録には、議長及び出席した理事が、記名押印又は署名しなければならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 21.2. Chairperson and directors who participate the general meeting shall sign and set their seals on the minutes.</seg>
+  </tuv>
+</tu>
+<tu tuid="73" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第４章 役員</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>ARTICLE IV  Officers</seg>
+  </tuv>
+</tu>
+<tu tuid="74" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(種別)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Class of Officers)</seg>
+  </tuv>
+</tu>
+<tu tuid="75" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第２２条 当法人に次の役員を置く。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 22. This association has following officers;</seg>
+  </tuv>
+</tu>
+<tu tuid="76" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(1)理事:</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(1) Directors:</seg>
+  </tuv>
+</tu>
+<tu tuid="77" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>３ 名以上 １５ 名以内</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>  three to fifteen persons</seg>
+  </tuv>
+</tu>
+<tu tuid="78" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(2)監事:</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(2) Auditor:</seg>
+  </tuv>
+</tu>
+<tu tuid="79" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>１ 名</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg> one person</seg>
+  </tuv>
+</tu>
+<tu tuid="80" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(選任)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Selection)</seg>
+  </tuv>
+</tu>
+<tu tuid="81" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第２３条 理事、監事は総会においてこれを選任する。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 23. General meeting shall select directors and auditor</seg>
+  </tuv>
+</tu>
+<tu tuid="82" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>２ 理事のうち、理事のいずれかの１名とその配偶者又は３親等内の親族その他特別の関係にある者の合計数は、理事総数の３分の１を超えてはならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 23.2.  Number of directors, who is a spouse,  or is a family in degree of  relationship is equal or  lower than three, and an other special relationship with other director, shall not be more than  ⅓ of number of all directors.</seg>
+  </tuv>
+</tu>
+<tu tuid="83" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>３ 監事は、理事又は当法人の事務局職員を兼ねてはならない</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 23.3.  Auditor shall not be hold director or officer post in this association.</seg>
+  </tuv>
+</tu>
+<tu tuid="84" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(任期)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Term)</seg>
+  </tuv>
+</tu>
+<tu tuid="85" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第２４条 理事の任期は、選任後２年以内に終了する事業年度のうち最終のものに関する定時社員総会の終決の時までとし、再任を妨げない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 24. Term of director shall be until the time of closing of general meeting of the latest annual year that  is finished less than two years from the day  selected. Director may be re-selected.</seg>
+  </tuv>
+</tu>
+<tu tuid="86" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>２　監事の任期は、選任後２年以内に終了する事業年度のうち最終のものに関する定時社員総会の終決の時までとし、再任を妨げない</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 24.2.  Term of auditor shall be until the time of closing of general meeting of latest annual year that is finished less than two years from the day selected. Auditor may be re-selected.</seg>
+  </tuv>
+</tu>
+<tu tuid="87" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>３ 補欠または増員により選任された理事の任期は、前任者または現任者の残任期間とする。補欠により選任された監事の任期は、前任者の残任期間とする。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 24.3. Term of director, who is selected to fill vacancy or to rise number of officers, is as same as predecessor or current directors. Term of auditor, who is selected to fill vacancy, is as same as predecessor.</seg>
+  </tuv>
+</tu>
+<tu tuid="88" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>４ 役員は、辞任しまたは任期満了となった場合においても、定員を欠くに至る場合には、後任者が就任するまではその職務を行わねばならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 24.4. Officers, who is resigned or expired its term, shall continue its business until successor is selected, when number of officer is less than its quota.</seg>
+  </tuv>
+</tu>
+<tu tuid="89" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(職務)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Duty)</seg>
+  </tuv>
+</tu>
+<tu tuid="90" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第２５条 理事は、理事会を構成し、当法人事業の執行、立案を行う。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 25. Director shall organize board of directors and plan and execution of the business.</seg>
+  </tuv>
+</tu>
+<tu tuid="91" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>２　理事会は、その決議により代表理事１名を選定し、その他に副理事長１名以上２名以下を定める。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 25.2. The board of directors shall select a representative director and one or two vice chairperson.</seg>
+  </tuv>
+</tu>
+<tu tuid="92" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>３ 代表理事は、法令又はこの定款で定めるところにより、当法人を代表し、その業務を統括する。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 25.3. Representative director represent this association by law and this article, and administrate its business.</seg>
+  </tuv>
+</tu>
+<tu tuid="93" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>４ 副理事長は、代表理事を補佐し、代表理事に事故があるとき又は代表理事が欠けたときは、予め代表理事により指名された順位に従い、その職務を代行する。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 25.4. Vice chairperson shall assist representative director and delegate its business, when representative director take accident or  pass away. When there exist multiple vice chairperson, selection order shall be predefined by the representative director.</seg>
+  </tuv>
+</tu>
+<tu tuid="94" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>５ 代表理事及びこの法人の業務を執行する理事は、毎事業年度毎に4か月を超える間隔で2回以上、自己の職務の執行の状況を理事会に報告しなければならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 25.5.  Representative director and directors of the association shall report their results of operations to the board in equal or more than two times in its annual years, no earlier than 4 month from previous report.</seg>
+  </tuv>
+</tu>
+<tu tuid="95" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>６　 監事は、事業遂行及び財産の状況を監査する。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 25.6 Auditor shall autit a process of operations, finance and accounting.</seg>
+  </tuv>
+</tu>
+<tu tuid="96" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(解任)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Dismiss)</seg>
+  </tuv>
+</tu>
+<tu tuid="97" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第２６条 役員が次の各号の一に該当する場合は、法令の定めるところにより、社員総会の決議によって解任することができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 26.  Directors may be dismissed at any time by a resolution of the General Meeting of members when he/she has become in following situations:</seg>
+  </tuv>
+</tu>
+<tu tuid="98" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(1)心身の故障のため職務を執行することができないと認められるとき</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(1)He/she has been  definitely difficult to continue his/her duties and operations by its injury on mentally or physically.</seg>
+  </tuv>
+</tu>
+<tu tuid="99" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(2)職務上の義務違反その他の役員としてふさわしくない行為があると認められるとき</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(2)He/she has violated or neglected his/her official duties</seg>
+  </tuv>
+</tu>
+<tu tuid="100" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(報酬)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Compensation)</seg>
+  </tuv>
+</tu>
+<tu tuid="101" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第２７条 役員は、有給とすることができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 27.  Officers may be paid.</seg>
+  </tuv>
+</tu>
+<tu tuid="102" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>２ 役員には、その職務を遂行するために要した費用を弁償することができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 27.2.  Officers may be compensated for their cost to execute business.</seg>
+  </tuv>
+</tu>
+<tu tuid="103" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>３ 前２項に関し必要な事項は、総会の議決を経て、代表理事が別に定める。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 27.3.   Details of previous two article shall be decided by representative director, on resolution  of general meeting.</seg>
+  </tuv>
+</tu>
+<tu tuid="104" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(役員の損害賠償責任の一部免除)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Exemption part of the liability of officers)</seg>
+  </tuv>
+</tu>
+<tu tuid="105" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第 ２８条 当法人は、法人法第 111 条 1 項の役員の賠償責任について、法令の定める要件に該当する場合には、総会の決議によって、賠償責任額から法令に定める最低責任限度額を控除して得た額を限度として、免除することができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 28.  This association may exempt the liability of directors of the Corporation Law No. 111, paragraph 1, if it satisfies the requirements stipulated to by law, by resolution of general meeting, as  limit the amount obtained by deducting the minimum liability amount stipulated in laws and regulations from the liability amount.</seg>
+  </tuv>
+</tu>
+<tu tuid="106" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第２９条 当法人は、役員の賠償責任について、法令に定める要件に該当する場合、理事会の決議によって、賠償責任額から法令に定める最低責任限度額を控除して得た額を限度として、免除することができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 29. This association may exempt the liability of directors, if applicable to the requirements stipulated in laws and regulations, by resolution of the Board of Directors, as limit the amount obtained by deducting the minimum liability amount stipulated in laws and regulations from the liability amount.</seg>
+  </tuv>
+</tu>
+<tu tuid="107" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第５章　理事会</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>ARTICLE  V  Board of directors</seg>
+  </tuv>
+</tu>
+<tu tuid="108" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(構成)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Organization)</seg>
+  </tuv>
+</tu>
+<tu tuid="109" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第３０条 理事会は、理事をもって構成する。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 30. Board of directors shall consist of directors.</seg>
+  </tuv>
+</tu>
+<tu tuid="110" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(権限)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Commission)</seg>
+  </tuv>
+</tu>
+<tu tuid="111" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第３１条 理事会は法令及び本定款に別に定める事項のほか次の事項を議決する。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 31. Board of directors shall resolve following issues addition to the items the law requested and defined in other part of the bylaws.</seg>
+  </tuv>
+</tu>
+<tu tuid="112" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(1) 社員総会の付議事項</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(1)Agenda items of the general meeting</seg>
+  </tuv>
+</tu>
+<tu tuid="113" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(2) 社員総会の議決した事項の執行に関すること</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(2) Enforcement of the items that are decided by the general meeting</seg>
+  </tuv>
+</tu>
+<tu tuid="114" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(3) その他、社員総会の議決を要しない事業の執行に関する事項</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(3)In additions, items of business execution that is not necessary to be decided by the general meeting  </seg>
+  </tuv>
+</tu>
+<tu tuid="115" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(開催)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Holding)</seg>
+  </tuv>
+</tu>
+<tu tuid="116" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第３２条 理事会は代表理事または理事が必要と認めた時、または理事現在数の過半数以上から会議の目的たる事項を示して請求があったときに開催する。ただし、毎事業年度に少なくとも４回は開催する。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 32.　Board of directors shall hold a meeting when representative director or  all director requested,  or when more than half number of director request a  meeting with a purpose. It shall be held in 4 times per year.</seg>
+  </tuv>
+</tu>
+<tu tuid="117" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(招集)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Call)</seg>
+  </tuv>
+</tu>
+<tu tuid="118" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第３３条 理事会は、法令に別段の定めがある場合を除き、代表理事が招集し、代表理事が議長を務める。なお理事会を招集する場合は、少なくとも会日の １ 週間前までに開催の日時、場所及び付議事項を記載した書面または電磁的方法で理事及び監事に通知しなければならない。但し、代表理事または理事が緊急に理事会を開催する必要があると認めたときは期間を短縮することができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 33. Board of directors shall be called by representative director, except for the law required, and representative director shall become chairperson. When calling board of directors, notification shall be sent to directors and auditors by a letter or an electrical way with date, time, place and agenda items, no later than one week before the day the meeting called. When representative director or directors admitted to call urgently, it may be called in shorter term.</seg>
+  </tuv>
+</tu>
+<tu tuid="119" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(決議および決議の省略)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Quorum, Resolution and omission)</seg>
+  </tuv>
+</tu>
+<tu tuid="120" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第３４条 理事会は決議に加わることのできる理事の過半数以上の出席で成立し、その議事は出席した理事の過半数で決するものとする。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 34. Quorum of board of directors shall be  more than half number of directors who can be applied to resolution,  and decided by majority.</seg>
+  </tuv>
+</tu>
+<tu tuid="121" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(議事録)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Minutes)</seg>
+  </tuv>
+</tu>
+<tu tuid="122" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第３５条 理事会の議事については、法令に定める事項及び次の事項を記載した議事録を作成しなければならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 35.  Minutes of board of directors shall be made with items the law requested, and following items:</seg>
+  </tuv>
+</tu>
+<tu tuid="123" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(1) 日時及び場所</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(1) Date and place</seg>
+  </tuv>
+</tu>
+<tu tuid="124" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(2) 理事総数及び出席者数</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(2) Number of participated directors and its total</seg>
+  </tuv>
+</tu>
+<tu tuid="125" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(3) 審議事項</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(3) Agenda items</seg>
+  </tuv>
+</tu>
+<tu tuid="126" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(4) 議事の経過の要領及びその結果</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(4) Abstract discussion process and result</seg>
+  </tuv>
+</tu>
+<tu tuid="127" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>２ 議事録には、出席した理事及び監事が、記名押印又は署名しなければならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 35.2  All directors and auditor participated shall sign and seal on the minutes.</seg>
+  </tuv>
+</tu>
+<tu tuid="128" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第６章　基金</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>ARTICLE IV  Fund</seg>
+  </tuv>
+</tu>
+<tu tuid="129" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第３６条　当法人は、基金を引き受ける者の募集をすることができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 36. This association may recruit those who undertake the fund</seg>
+  </tuv>
+</tu>
+<tu tuid="130" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(基金の拠出者の権利)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Rights of fund contributors)</seg>
+  </tuv>
+</tu>
+<tu tuid="131" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第３７条　拠出された基金は、当法人が解散するまで返還しない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 37.</seg>
+  </tuv>
+</tu>
+<tu tuid="132" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(基金の返還の手続き)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Contributed fund  shall not be return until this association dissolved.</seg>
+  </tuv>
+</tu>
+<tu tuid="133" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第３８条　基金の返還の手続きについては、一般法人法の規定に従い、基金の返還を行う場所及び方法その他の必要な事項を清算人において別に定めるものとする。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Procedure of fund return)</seg>
+  </tuv>
+</tu>
+<tu tuid="134" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第７章 計算</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 38 Procedures for the return of the fund shall be specified by the liquidator separately about place, a way and other necessary matters for returning the fund, in accordance with the provisions of general corporate law.</seg>
+  </tuv>
+</tu>
+<tu tuid="135" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(事業年度)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>ARTICLE IIV Accounting</seg>
+  </tuv>
+</tu>
+<tu tuid="136" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第３９条 当法人の事業年度は、毎年１１月１日から翌年１０月末日までの年１期とする。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>（Annual year)</seg>
+  </tuv>
+</tu>
+<tu tuid="138" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(事業計画及び収支予算書)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Business plan and accounting plan)</seg>
+  </tuv>
+</tu>
+<tu tuid="139" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第４０条　当法人の事業計画及び収支予算書は、代表理事が作成し社員総会の議決を得なければならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 40.  Business plan and accounting plan of this association shall be made by representative director and shall be resolved by general meeting.</seg>
+  </tuv>
+</tu>
+<tu tuid="140" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(暫定予算)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Interim accounting plan)</seg>
+  </tuv>
+</tu>
+<tu tuid="141" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第４１条 前条の規定にかかわらず、やむを得ない理由により収支予算が成立しないときは、代表理事は理事会の議決を経て、予算成立の日まで前年度の予算に準じ暫定予算を構成し、これを執行することができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 41. Notwithstanding the provisions of the preceding Article, when the balance budget is not satisfied due to unavoidable reasons, representative director may execute business and constitute a provisional budget according to the previous year's budget until the day of the accounting plan established,  through a resolution of the Board of Directors, .</seg>
+  </tuv>
+</tu>
+<tu tuid="142" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>２ 前項の収入支出は、新たに成立した予算の収入支出とみなす。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 41.2  Incomes and costs on the interim account plan shall be recognized as a part of authorized account plan.</seg>
+  </tuv>
+</tu>
+<tu tuid="143" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(事業報告及び決算)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Business and financial report)</seg>
+  </tuv>
+</tu>
+<tu tuid="144" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第４２条 当法人の事業報告及び決算については、毎事業年度終了後、代表理事が当該事業年度に関する次の書類を作成し、定時社員総会に提出し又は提供しなければならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 42.  Annual business report and annual financial report  includes following items shall be made by representative director for its annual business year. It also shall be published or conducted to annual general meeting after each end of annual business year.</seg>
+  </tuv>
+</tu>
+<tu tuid="145" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(1)事業報告及びその付属明細書</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(1)Business report and its detail descriptions</seg>
+  </tuv>
+</tu>
+<tu tuid="146" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(2)貸借対照表及び損益計算書並びにこれらの附属明細書</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(2)Balance sheet, profit-and-loss statement and its detail descriptions</seg>
+  </tuv>
+</tu>
+<tu tuid="147" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>２ 事業報告については、代表理事がその内容を定時社員総会に報告しなければならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 42.2  Business report shall be reported to annual general meeting by representative director.</seg>
+  </tuv>
+</tu>
+<tu tuid="148" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>３　貸借対照表及び損益計算書については、定時社員総会の承認を受けなければならない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 42.3  Balance sheet and profit-and-loss statement shall be approved by annual general meeting.</seg>
+  </tuv>
+</tu>
+<tu tuid="149" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(剰余金の分配の禁止)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Prohibit to dividend of surplus)</seg>
+  </tuv>
+</tu>
+<tu tuid="150" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第４３条　当法人は、剰余金の分配を行うことができない。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 43. This association should not pay dividend of surplus.</seg>
+  </tuv>
+</tu>
+<tu tuid="151" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(特別会計)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Special account)</seg>
+  </tuv>
+</tu>
+<tu tuid="152" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第４４条 当法人は、業務遂行上必要がある場合は、理事会の議決を経て特別会計を設けることができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 44. This association may have a special account when it is necessary by approval of board of directors.</seg>
+  </tuv>
+</tu>
+<tu tuid="153" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第８章 規約の変更および解散</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>ARTICLE IIX Change of articles and dissolution</seg>
+  </tuv>
+</tu>
+<tu tuid="154" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(定款の変更)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Change of bylaws)</seg>
+  </tuv>
+</tu>
+<tu tuid="155" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第４５条 本定款は、法令の定めるところにより社員総会の決議をもって変更できる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 45.  This bylaws may change by approval of general meeting according to the corporation law.</seg>
+  </tuv>
+</tu>
+<tu tuid="156" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(解散)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Dissolution)</seg>
+  </tuv>
+</tu>
+<tu tuid="157" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第４６条 当法人は、一般法人法第１４８条第１号、第２号及び第４号から第７号までに規定する事由によるほか、社員総会において総正会員の半数以上であって、総正会員の議決権の３分の２以上に当たる多数の決議により解散することができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 46. This association may dissolve,  by a super majority of number of  vote rights of members and more than half of number of members on general meeting,  or by a reason provide by the Section 148.1, 148.2,  and from 148.4 to 148.7 of the Corporation law.</seg>
+  </tuv>
+</tu>
+<tu tuid="158" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(残余財産の処分)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Disposition of remaining asset)</seg>
+  </tuv>
+</tu>
+<tu tuid="159" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第４７条 当法人が清算をする場合において有する残余財産は、社員総会の決議を経て、公益認定法第５条１７号に掲げる法人又は特定非営利活動法人（租税特別措置法第６６条の１１の２第３項の認定を受けたものに限る。）に贈与する。公益認定法とは、公益社団法人及び公益財団法人の認定等に関する法律をいう。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 47. When this association become dissolution, its remaining asset shall donate to public  association, that is public corporation defined in section 5.17 of  Act on the Authorization, etc. of Public-interest Incorporated Associations and Public-interest Incorporated Foundation, or to special non-profit corporation (limited to one which approved by section 66.11.2.3 of special taxation measurement law),  by approval of the general meeting.</seg>
+  </tuv>
+</tu>
+<tu tuid="160" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第９章 事務局</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>ARTICLE IX  Secretariat</seg>
+  </tuv>
+</tu>
+<tu tuid="161" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(事務局の設置)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Setup of secretariat)</seg>
+  </tuv>
+</tu>
+<tu tuid="162" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第４８条 当法人は、当法人の事務を処理するため、事務局を設置することができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 48. This association may have a secretariat for office work.</seg>
+  </tuv>
+</tu>
+<tu tuid="163" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>２ 事務局には事務局長及び職員を置くことができる。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 48.2 There may be a secretary-general and staffs in a  secretariat.</seg>
+  </tuv>
+</tu>
+<tu tuid="164" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>(職員の任免)</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>(Appointment and dismissal of staffs)</seg>
+  </tuv>
+</tu>
+<tu tuid="165" datatype="Text">
+  <tuv xml:lang="ja">
+    <seg>第４９条 事務局長及び職員の任免は、理事会の同意を得て代表理事が行う。</seg>
+  </tuv>
+  <tuv xml:lang="en">
+    <seg>Section 49. Representative director shall appoint and dismiss a secretary-general and staffs with approval by the board of directors.</seg>
+  </tuv>
+</tu>
+</body>
+</tmx>
