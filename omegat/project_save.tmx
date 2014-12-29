@@ -372,6 +372,14 @@ Section 2.  The principal office for the transaction of the business of this as
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(事務局の設置)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T020502Z" creationid="miurahr" creationdate="20141229T020502Z">
+        <seg>(Setup of secretariat)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(事務所)</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014746Z" creationid="miurahr" creationdate="20141229T014746Z">
@@ -650,6 +658,14 @@ Section 8. The member shall pay an entrance fee and a membership due which separ
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015312Z" creationid="miurahr" creationdate="20141229T015312Z">
         <seg>(Duty)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(職員の任免)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T020504Z" creationid="miurahr" creationdate="20141229T020504Z">
+        <seg>(Appointment and dismissal of staffs)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1210,6 +1226,22 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>第４８条 当法人は、当法人の事務を処理するため、事務局を設置することができる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T020503Z" creationid="miurahr" creationdate="20141229T020503Z">
+        <seg>Section 48. This association may have a secretariat for office work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第４９条 事務局長及び職員の任免は、理事会の同意を得て代表理事が行う。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T020505Z" creationid="miurahr" creationdate="20141229T020505Z">
+        <seg>Section 49. Representative director shall appoint and dismiss a secretary-general and staffs with approval by the board of directors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>第５条　当法人の公告は、官報に掲載する方法により行う。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014834Z" creationid="miurahr" creationdate="20141229T014834Z">
@@ -1283,6 +1315,14 @@ Section 6. There shall be three classes of membership in this corporation as fol
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>第９章 事務局</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T020500Z" creationid="miurahr" creationdate="20141229T020500Z">
+        <seg>ARTICLE IX  Secretariat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>総則</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012822Z" creationid="miurahr" creationdate="20141229T011034Z">
@@ -1315,10 +1355,26 @@ Section 6. There shall be three classes of membership in this corporation as fol
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>２ 事務局には事務局長及び職員を置くことができる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T020504Z" creationid="miurahr" creationdate="20141229T020504Z">
+        <seg>Section 48.2 There may be a secretary-general and staffs in a  secretariat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>２ 事業報告については、代表理事がその内容を定時社員総会に報告しなければならない。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015728Z" creationid="miurahr" creationdate="20141229T015728Z">
         <seg>Section 42.2  Business report shall be reported to annual general meeting by representative director.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２ 会員が解散又は破産したときは、退会したものとみなす。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T020732Z" creationid="miurahr" creationdate="20141229T020732Z">
+        <seg>Section 9.２ A member who is dissoluted or bankrupted is recognized as withdrawal from this association.</seg>
       </tuv>
     </tu>
     <tu>
