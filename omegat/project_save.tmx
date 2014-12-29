@@ -46,6 +46,42 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(Office)
+第２条 当法人は、主たる事務所を東京都北区に置く。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012922Z" creationid="miurahr" creationdate="20141229T012922Z">
+        <seg>(Office)
+Section 2.  The principal office for the transaction of the business of this association shall be located in the Kita city of Tokyo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(名称)
+第１条 当法人の名称は、一般社団法人オープンストリートマップ・ファウンデーション・ジャパンと称する。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012907Z" creationid="miurahr" creationdate="20141229T012907Z">
+        <seg>Section 1  A name of the association is 一般社団法人オープンストリートマップ・ファウンデーション・ジャパン(the OpenStreetMap Foundation Japan, General Society Association).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(目的)
+第３条 当法人は、自由な地図情報の構築と普及のために世界的に活動するオープンストリートマップ(通称:OSM)の活動趣旨に賛同し、日本国における自由な地図情報および日本語による世界の自由な地図情報の発展とそれに伴う技術発展を促進するとともに、オープンストリートマップ財団（2006年8月26日設立、本部:グレート・ブリテンおよび北アイルランド連合王国）(英語名称: OpenStreetMap Foundation, 略称：OSMF)と連携して、健全なるコミュニティーの発展と自由な地図情報の推進を図ると共に、OSMの利用の促進によって、学術および科学技術の振興と、表現の自由の尊重と擁護、地域社会の健全な発展に資することを目的とし、次の事業を行う。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013001Z" creationid="miurahr" creationdate="20141229T013001Z">
+        <seg>(Purpose) Section 3. This association is a nonprofit mutual benefit corporation, that  sympathize the purpose of OSM  to aim to build and to promote free geospatial information in world wide,  and promote a development of  free geospatial global information in Japan and in Japanese, and promote technical innovation through OSM activities.  We also shall collaborate with the OpenStreetMap Foundation(found in 26th, August 2006 in UK)(Abbreviation: OSMF) The purposes of this association include growing healthy community, promoting free geospatial information, and encourage academic, science  and technology improvement through promoting OSM utilization, and protecting the freedom of expression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012818Z" creationid="miurahr" creationdate="20141229T012818Z">
+        <seg>ARTICLE I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>&lt;/f2&gt;&lt;f4&gt;第１条 当法人の名称は、一般社団法人オープンストリートマップ・ファウンデーション・ジャパンと称する。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011119Z" creationid="miurahr" creationdate="20141229T011119Z">
@@ -120,8 +156,8 @@
       <tuv lang="JA">
         <seg>総則</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011034Z" creationid="miurahr" creationdate="20141229T011034Z">
-        <seg>ARTICLE I  GENERAL PROVISIONS</seg>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012822Z" creationid="miurahr" creationdate="20141229T011034Z">
+        <seg>GENERAL PROVISIONS</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,9 +170,25 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>通称はOSMFジャパンとし、英語名称は、 OpenStreetMap Foundation Japan (通称:OSMF Japan、略称:OSMFJ)と称する。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012910Z" creationid="miurahr" creationdate="20141229T012910Z">
+        <seg> An Abbreviation is OSMFジャパン(OSMF JAPAN) and English name is OpenStreetMap Foundation Japan (Abbreviation: OSMF Japan, synonym: OSMFJ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>２ 当法人は、社員総会の決議により従たる事務所を必要な場所に置くことができる。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011428Z" creationid="miurahr" creationdate="20141229T011428Z">
+        <seg>Section 2.2 Branch or subordinate offices may at any time be established by the resolution of the General Meeting at any place or places where this association  is qualified to do business.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２　当法人は、社員総会の決議により従たる事務所を必要な場所に置くことができる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012929Z" creationid="miurahr" creationdate="20141229T012929Z">
         <seg>Section 2.2 Branch or subordinate offices may at any time be established by the resolution of the General Meeting at any place or places where this association  is qualified to do business.</seg>
       </tuv>
     </tu>
