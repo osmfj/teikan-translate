@@ -69,6 +69,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(1)会費の納入が指定期日を過ぎて１年以上されなかったとき</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T021317Z" creationid="miurahr" creationdate="20141229T021207Z">
+        <seg>(1) When payment of membership due was delayed over a year after settlement date for payment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(1)心身の故障のため職務を執行することができないと認められるとき</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015351Z" creationid="miurahr" creationdate="20141229T015351Z">
@@ -878,6 +886,14 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015522Z" creationid="miurahr" creationdate="20141229T015522Z">
         <seg>When representative director or directors admitted to call urgently, it may be called in shorter term.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>但し、会員が吸収、合併等による事由で解散する場合においては、会員が望む場合、その権利及び義務は、新法人に移管される。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T021059Z" creationid="miurahr" creationdate="20141229T021059Z">
+        <seg>However, when a member company was dissolved by merger and aquicition, if a member ask to continue, these duty and right are transfered to a new company. </seg>
       </tuv>
     </tu>
     <tu>
