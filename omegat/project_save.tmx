@@ -61,6 +61,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(1)事業報告及びその付属明細書</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015725Z" creationid="miurahr" creationdate="20141229T015725Z">
+        <seg>(1)Business report and its detail descriptions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(1)心身の故障のため職務を執行することができないと認められるとき</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015351Z" creationid="miurahr" creationdate="20141229T015351Z">
@@ -182,6 +190,14 @@ Section 7. Admission of members shall be made by the Board upon a determination 
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015352Z" creationid="miurahr" creationdate="20141229T015352Z">
         <seg>(2)He/she has violated or neglected his/her official duties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(2)貸借対照表及び損益計算書並びにこれらの附属明細書</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015727Z" creationid="miurahr" creationdate="20141229T015727Z">
+        <seg>(2)Balance sheet, profit-and-loss statement and its detail descriptions</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,6 +398,30 @@ Section 4. The association shall conduct the following business to pursue the pu
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(事業報告及び決算)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015720Z" creationid="miurahr" creationdate="20141229T015720Z">
+        <seg>(Business and financial report)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(事業年度)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015711Z" creationid="miurahr" creationdate="20141229T015711Z">
+        <seg>ARTICLE IIV Accounting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(事業計画及び収支予算書)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015714Z" creationid="miurahr" creationdate="20141229T015714Z">
+        <seg>(Business plan and accounting plan)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(任期)</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015240Z" creationid="miurahr" creationdate="20141229T015240Z">
@@ -424,6 +464,14 @@ Section 5. This association announcement shall be done with the official gazette
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(剰余金の分配の禁止)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015730Z" creationid="miurahr" creationdate="20141229T015730Z">
+        <seg>(Prohibit to dividend of surplus)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(名称)</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014703Z" creationid="miurahr" creationdate="20141229T014703Z">
@@ -441,10 +489,34 @@ Section 5. This association announcement shall be done with the official gazette
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(基金の拠出者の権利)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015706Z" creationid="miurahr" creationdate="20141229T015706Z">
+        <seg>(Rights of fund contributors)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(基金の返還の手続き)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015708Z" creationid="miurahr" creationdate="20141229T015708Z">
+        <seg>Contributed fund  shall not be return until this association dissolved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(報酬)</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015354Z" creationid="miurahr" creationdate="20141229T015354Z">
         <seg>(Compensation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(定款の変更)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015739Z" creationid="miurahr" creationdate="20141229T015739Z">
+        <seg>(Change of bylaws)</seg>
       </tuv>
     </tu>
     <tu>
@@ -465,6 +537,14 @@ Section 5. This association announcement shall be done with the official gazette
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(暫定予算)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015716Z" creationid="miurahr" creationdate="20141229T015716Z">
+        <seg>(Interim accounting plan)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(構成)</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015002Z" creationid="miurahr" creationdate="20141229T015002Z">
@@ -481,6 +561,14 @@ Section 5. This association announcement shall be done with the official gazette
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(残余財産の処分)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015745Z" creationid="miurahr" creationdate="20141229T015745Z">
+        <seg>(Disposition of remaining asset)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(決議)</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015104Z" creationid="miurahr" creationdate="20141229T015104Z">
@@ -493,6 +581,14 @@ Section 5. This association announcement shall be done with the official gazette
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015525Z" creationid="miurahr" creationdate="20141229T015525Z">
         <seg>(Quorum, Resolution and omission)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(特別会計)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015735Z" creationid="miurahr" creationdate="20141229T015735Z">
+        <seg>(Special account)</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,6 +658,14 @@ Section 8. The member shall pay an entrance fee and a membership due which separ
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015347Z" creationid="miurahr" creationdate="20141229T015347Z">
         <seg>(Dismiss)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(解散)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015741Z" creationid="miurahr" creationdate="20141229T015741Z">
+        <seg>(Dissolution)</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1098,38 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>第３６条　当法人は、基金を引き受ける者の募集をすることができる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015704Z" creationid="miurahr" creationdate="20141229T015704Z">
+        <seg>Section 36. This association may recruit those who undertake the fund</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第３７条　拠出された基金は、当法人が解散するまで返還しない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015707Z" creationid="miurahr" creationdate="20141229T015707Z">
+        <seg>Section 37.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第３８条　基金の返還の手続きについては、一般法人法の規定に従い、基金の返還を行う場所及び方法その他の必要な事項を清算人において別に定めるものとする。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015709Z" creationid="miurahr" creationdate="20141229T015709Z">
+        <seg>(Procedure of fund return)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第３９条 当法人の事業年度は、毎年１１月１日から翌年１０月末日までの年１期とする。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015713Z" creationid="miurahr" creationdate="20141229T015713Z">
+        <seg>（Annual year)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>第４条 当法人は、第３条に定める目的に資するため、次の事業を行う。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014808Z" creationid="miurahr" creationdate="20141229T014808Z">
@@ -1006,6 +1142,70 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015139Z" creationid="miurahr" creationdate="20141229T015139Z">
         <seg>ARTICLE IV  Officers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第４０条　当法人の事業計画及び収支予算書は、代表理事が作成し社員総会の議決を得なければならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015715Z" creationid="miurahr" creationdate="20141229T015715Z">
+        <seg>Section 40.  Business plan and accounting plan of this association shall be made by representative director and shall be resolved by general meeting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第４１条 前条の規定にかかわらず、やむを得ない理由により収支予算が成立しないときは、代表理事は理事会の議決を経て、予算成立の日まで前年度の予算に準じ暫定予算を構成し、これを執行することができる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015718Z" creationid="miurahr" creationdate="20141229T015718Z">
+        <seg>Section 41. Notwithstanding the provisions of the preceding Article, when the balance budget is not satisfied due to unavoidable reasons, representative director may execute business and constitute a provisional budget according to the previous year's budget until the day of the accounting plan established,  through a resolution of the Board of Directors, .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第４２条 当法人の事業報告及び決算については、毎事業年度終了後、代表理事が当該事業年度に関する次の書類を作成し、定時社員総会に提出し又は提供しなければならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015722Z" creationid="miurahr" creationdate="20141229T015722Z">
+        <seg>Section 42.  Annual business report and annual financial report  includes following items shall be made by representative director for its annual business year. It also shall be published or conducted to annual general meeting after each end of annual business year.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第４３条　当法人は、剰余金の分配を行うことができない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015732Z" creationid="miurahr" creationdate="20141229T015732Z">
+        <seg>Section 43. This association should not pay dividend of surplus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第４４条 当法人は、業務遂行上必要がある場合は、理事会の議決を経て特別会計を設けることができる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015736Z" creationid="miurahr" creationdate="20141229T015736Z">
+        <seg>Section 44. This association may have a special account when it is necessary by approval of board of directors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第４５条 本定款は、法令の定めるところにより社員総会の決議をもって変更できる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015740Z" creationid="miurahr" creationdate="20141229T015740Z">
+        <seg>Section 45.  This bylaws may change by approval of general meeting according to the corporation law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第４６条 当法人は、一般法人法第１４８条第１号、第２号及び第４号から第７号までに規定する事由によるほか、社員総会において総正会員の半数以上であって、総正会員の議決権の３分の２以上に当たる多数の決議により解散することができる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015743Z" creationid="miurahr" creationdate="20141229T015743Z">
+        <seg>Section 46. This association may dissolve,  by a super majority of number of  vote rights of members and more than half of number of members on general meeting,  or by a reason provide by the Section 148.1, 148.2,  and from 148.4 to 148.7 of the Corporation law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第４７条 当法人が清算をする場合において有する残余財産は、社員総会の決議を経て、公益認定法第５条１７号に掲げる法人又は特定非営利活動法人（租税特別措置法第６６条の１１の２第３項の認定を受けたものに限る。）に贈与する。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015834Z" creationid="miurahr" creationdate="20141229T015834Z">
+        <seg>Section 47. When this association become dissolution, its remaining asset shall donate to public  association, that is public corporation defined in section 5.17 of  Act on the Authorization, etc. of Public-interest Incorporated Associations and Public-interest Incorporated Foundation, or to special non-profit corporation (limited to one which approved by section 66.11.2.3 of special taxation measurement law),  by approval of the general meeting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1035,6 +1235,14 @@ Section 6. There shall be three classes of membership in this corporation as fol
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>第６章　基金</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015646Z" creationid="miurahr" creationdate="20141229T015646Z">
+        <seg>ARTICLE IV  Fund</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>第７条 当法人の会員として入会しようとする者は、理事会の定める手続により、申し込み、理事会の承認を得なければならない。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014859Z" creationid="miurahr" creationdate="20141229T014859Z">
@@ -1043,10 +1251,26 @@ Section 6. There shall be three classes of membership in this corporation as fol
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>第７章 計算</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015710Z" creationid="miurahr" creationdate="20141229T015710Z">
+        <seg>Section 38 Procedures for the return of the fund shall be specified by the liquidator separately about place, a way and other necessary matters for returning the fund, in accordance with the provisions of general corporate law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>第８条 会員は、社員総会において別に定める入会金及び会費を納入しなければならない。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014907Z" creationid="miurahr" creationdate="20141229T014907Z">
         <seg>Section 8. The member shall pay an entrance fee and a membership due which separately determined by the general meeting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第８章 規約の変更および解散</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015738Z" creationid="miurahr" creationdate="20141229T015738Z">
+        <seg>ARTICLE IIX Change of articles and dissolution</seg>
       </tuv>
     </tu>
     <tu>
@@ -1087,6 +1311,22 @@ Section 6. There shall be three classes of membership in this corporation as fol
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012910Z" creationid="miurahr" creationdate="20141229T012910Z">
         <seg> An Abbreviation is OSMFジャパン(OSMF JAPAN) and English name is OpenStreetMap Foundation Japan (Abbreviation: OSMF Japan, synonym: OSMFJ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２ 事業報告については、代表理事がその内容を定時社員総会に報告しなければならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015728Z" creationid="miurahr" creationdate="20141229T015728Z">
+        <seg>Section 42.2  Business report shall be reported to annual general meeting by representative director.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２ 前項の収入支出は、新たに成立した予算の収入支出とみなす。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015719Z" creationid="miurahr" creationdate="20141229T015719Z">
+        <seg>Section 41.2  Incomes and costs on the interim account plan shall be recognized as a part of authorized account plan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1135,6 +1375,14 @@ Section 6. There shall be three classes of membership in this corporation as fol
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015052Z" creationid="miurahr" creationdate="20141229T015052Z">
         <seg>Section 16.2.  A general member who has endorsements of  ⅕ of voting rights can request a call of   general meeting to the representative director,  with submitting a purpose and a reason.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２ 議事録には、出席した理事及び監事が、記名押印又は署名しなければならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015650Z" creationid="miurahr" creationdate="20141229T015650Z">
+        <seg>Section 35.2  All directors and auditor participated shall sign and seal on the minutes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1191,6 +1439,14 @@ Section 6. There shall be three classes of membership in this corporation as fol
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013738Z" creationid="miurahr" creationdate="20141229T013738Z">
         <seg>Section 7.3.  The board shall notify the reason by letter, as soon as possible, to an original person, when the board decided not to admit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>３　貸借対照表及び損益計算書については、定時社員総会の承認を受けなければならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015729Z" creationid="miurahr" creationdate="20141229T015729Z">
+        <seg>Section 42.3  Balance sheet and profit-and-loss statement shall be approved by annual general meeting.</seg>
       </tuv>
     </tu>
     <tu>
