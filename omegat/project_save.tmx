@@ -962,6 +962,14 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>但し、守秘に関する義務および不履行の義務に関しては、これを免れることはできない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T231911Z" creationid="miurahr" creationdate="20141229T231911Z">
+        <seg>However, duty not to disclose and duty for nonperformance shall not be exempted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>前項の総会をもって法人法上の社員総会とする。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015029Z" creationid="miurahr" creationdate="20141229T015029Z">
@@ -1062,6 +1070,14 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014947Z" creationid="miurahr" creationdate="20141229T014947Z">
         <seg>Section 11.  A member  may disqualify its right when it becomes following case;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第１２条 会員が第９条又は第１０条又は第１１条の規定によりその資格を喪失したときは、当法人に対する会員としての権利を失い、義務を免れる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T231754Z" creationid="miurahr" creationdate="20141229T231754Z">
+        <seg>Section 12 When member disqualify its membership according to secton 9, 10 or 11, its right of membership shall be lost, and its duty shall be exempted.</seg>
       </tuv>
     </tu>
     <tu>
