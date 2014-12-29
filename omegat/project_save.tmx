@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="JA">
+        <seg>(2)OSM&lt;/f2&gt;&lt;f4&gt;に関する研究調査活動&lt;/f4&gt;&lt;f5&gt;&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012330Z" creationid="miurahr" creationdate="20141229T012330Z">
+        <seg>(2)&lt;/f2&gt;&lt;f4&gt;Research and development around OSM&lt;/f4&gt;&lt;f5&gt;&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(3)OSM&lt;/f5&gt;&lt;f7&gt;に関する普及・啓発・宣伝活動&lt;/f7&gt;&lt;f8&gt;&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012351Z" creationid="miurahr" creationdate="20141229T012351Z">
+        <seg>(3)OSM&lt;/f5&gt;&lt;f7&gt;Promotion, enlightenment and advertisement&lt;/f7&gt;&lt;f8&gt;&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(4)OSM&lt;/f8&gt;&lt;f10&gt;に関する地域活動に対して必要な助成、支援&lt;/f10&gt;&lt;f11&gt;&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012427Z" creationid="miurahr" creationdate="20141229T012427Z">
+        <seg>(4)&lt;/f8&gt;&lt;f10&gt;Support and subsidy for regional activities on OSM&lt;/f10&gt;&lt;f11&gt;&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>&lt;/f2&gt;&lt;f4&gt;第１条 当法人の名称は、一般社団法人オープンストリートマップ・ファウンデーション・ジャパンと称する。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011119Z" creationid="miurahr" creationdate="20141229T011119Z">
@@ -26,6 +50,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012134Z" creationid="miurahr" creationdate="20141229T012134Z">
         <seg>&lt;/f2&gt;&lt;f4&gt;Section 4. The association shall conduct the following business to pursue the purpose defined in section 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>&lt;f0&gt;(1)OSMF&lt;/f0&gt;&lt;f1&gt;の日本国内における代表窓口としての広報活動や外部組織対応&lt;/f1&gt;&lt;f2&gt;&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012238Z" creationid="miurahr" creationdate="20141229T012238Z">
+        <seg>&lt;f0&gt;(1)&lt;/f0&gt;&lt;f1&gt;Publicity and public relation as a representative contact of OSMF in Japan.&lt;/f1&gt;&lt;f2&gt;&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
