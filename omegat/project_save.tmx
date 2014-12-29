@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>&lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;目的&lt;/f1&gt;&lt;f2&gt;)&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011439Z" creationid="miurahr" creationdate="20141229T011439Z">
+        <seg>&lt;f0&gt;(&lt;/f0&gt;&lt;f1&gt;Purpose&lt;/f1&gt;&lt;f2&gt;)&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>一般社団法人オープンストリートマップ・ファウンデーション・ジャパン定款</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011009Z" creationid="miurahr" creationdate="20141229T011009Z">
@@ -30,10 +38,34 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>第２条 当法人は、主たる事務所を東京都北区に置く。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011424Z" creationid="miurahr" creationdate="20141229T011424Z">
+        <seg>Section 2.  The principal office for the transaction of the business of this association shall be located in the Kita city of Tokyo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>総則</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011034Z" creationid="miurahr" creationdate="20141229T011034Z">
         <seg>ARTICLE I  GENERAL PROVISIONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>通称は&lt;/f4&gt;&lt;f5&gt;OSMF&lt;/f5&gt;&lt;f6&gt;ジャパンとし、英語名称は、 &lt;/f6&gt;&lt;f7&gt;OpenStreetMap Foundation Japan (&lt;/f7&gt;&lt;f8&gt;通称&lt;/f8&gt;&lt;f9&gt;:OSMF Japan&lt;/f9&gt;&lt;f10&gt;、略称&lt;/f10&gt;&lt;f11&gt;:OSMFJ)&lt;/f11&gt;&lt;f12&gt;と称する。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011400Z" creationid="miurahr" creationdate="20141229T011400Z">
+        <seg>An Abbreviation is &lt;/f4&gt;&lt;f5&gt;OSMF&lt;/f5&gt;&lt;f6&gt;ジャパン(OSMF JAPAN) , and English name is&lt;/f6&gt;&lt;f7&gt;OpenStreetMap Foundation Japan (&lt;/f7&gt;&lt;f8&gt;Abbreviation&lt;/f8&gt;&lt;f9&gt;:OSMF Japan&lt;/f9&gt;&lt;f10&gt;, synonym&lt;/f10&gt;&lt;f11&gt;:OSMFJ)&lt;/f11&gt;&lt;f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２ 当法人は、社員総会の決議により従たる事務所を必要な場所に置くことができる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011428Z" creationid="miurahr" creationdate="20141229T011428Z">
+        <seg>Section 2.2 Branch or subordinate offices may at any time be established by the resolution of the General Meeting at any place or places where this association  is qualified to do business.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
