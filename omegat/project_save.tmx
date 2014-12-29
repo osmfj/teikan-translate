@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="JA">
+        <seg>(1) 日時及び場所</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015130Z" creationid="miurahr" creationdate="20141229T015130Z">
+        <seg>(1) Date and place</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(1) 本定款の変更</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015117Z" creationid="miurahr" creationdate="20141229T015117Z">
+        <seg>(1) Change of bylaws</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(1)OSMFの日本国内における代表窓口としての広報活動や外部組織対応</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014813Z" creationid="miurahr" creationdate="20141229T014813Z">
@@ -82,6 +98,30 @@ Section 7. Admission of members shall be made by the Board upon a determination 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(1)理事: ３ 名以上 １５ 名以内</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015213Z" creationid="miurahr" creationdate="20141229T015213Z">
+        <seg>(1) Directors: three to fifteen persons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(2) 当法人の解散及び合併</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015119Z" creationid="miurahr" creationdate="20141229T015119Z">
+        <seg>(2) dissolution and merger of this association</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(2) 正会員総数及び出席者数(書面票決者又は票決委任者がある場合は、その数を付記すること)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015133Z" creationid="miurahr" creationdate="20141229T015133Z">
+        <seg>(2) Number of general members and number of participants ( Addition with number of delegates and proxies)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(2)OSM&lt;/f2&gt;&lt;f4&gt;に関する研究調査活動&lt;/f4&gt;&lt;f5&gt;&lt;br6/&gt;</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012330Z" creationid="miurahr" creationdate="20141229T012330Z">
@@ -98,10 +138,42 @@ Section 7. Admission of members shall be made by the Board upon a determination 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(2)当法人の名誉を棄損又は当法人の目的に著しく反する行為をしたとき</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014943Z" creationid="miurahr" creationdate="20141229T014943Z">
+        <seg>(2)Who libeled this association and/or act  against the purpose of  this association remarkably</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(2)監事: １ 名</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015227Z" creationid="miurahr" creationdate="20141229T015227Z">
+        <seg>(2) Auditor: one person</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(2)賛助会員　当法人の事業を援助するために入会した個人又は法人</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014850Z" creationid="miurahr" creationdate="20141229T014850Z">
         <seg>(2)Supporting member  natural person or legal person who support the business of this association</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(3) 事業計画及び収支予算</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015120Z" creationid="miurahr" creationdate="20141229T015120Z">
+        <seg>(3) business  and budget plan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(3) 審議事項</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015134Z" creationid="miurahr" creationdate="20141229T015134Z">
+        <seg>(3)  discussion items</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,10 +194,34 @@ Section 7. Admission of members shall be made by the Board upon a determination 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(3)その他除名すべき正当な事由があるとき</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014944Z" creationid="miurahr" creationdate="20141229T014944Z">
+        <seg>(3) When there is rightful reason to be expulsion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(3)特別会員　当法人の運営に必要であると理事会が認める公共団体、公益法人もしくはこれに準じる法人の中から選ばれた個人又は法人</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014853Z" creationid="miurahr" creationdate="20141229T014853Z">
         <seg>(3)Special member   natural person or legal person admit the Board to be necessary for the operation, who selected from  public body, public-service corporation and/or similar corporation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(4) 事業報告及び収支決算</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015122Z" creationid="miurahr" creationdate="20141229T015122Z">
+        <seg>(4) business report and statement of account</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(4) 議事の経過の要領及びその結果</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015135Z" creationid="miurahr" creationdate="20141229T015135Z">
+        <seg>(4) Result and abstract of discussion process</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +242,14 @@ Section 7. Admission of members shall be made by the Board upon a determination 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(5) 役員の選出、解任及び報酬</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015123Z" creationid="miurahr" creationdate="20141229T015123Z">
+        <seg>(5) selection, dismissal and reward of officers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(5)OSM&lt;/f11&gt;&lt;f13&gt;の発展のために、&lt;/f13&gt;&lt;f14&gt;OSM&lt;/f14&gt;&lt;f15&gt;に関連する諸団体との連携活動&lt;/f15&gt;&lt;f16&gt;&lt;br17/&gt;</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012508Z" creationid="miurahr" creationdate="20141229T012508Z">
@@ -158,6 +262,14 @@ Section 7. Admission of members shall be made by the Board upon a determination 
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014824Z" creationid="miurahr" creationdate="20141229T014824Z">
         <seg>(5)Cooperation with the associations related to the OSM for OSM improvement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(6) その他、理事会が必要と認めた当法人の運営に関する重要事項</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015124Z" creationid="miurahr" creationdate="20141229T015124Z">
+        <seg>(6) Any other important issues of business on this association, that board  of directors admit</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +342,22 @@ Section 4. The association shall conduct the following business to pursue the pu
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(任期)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015240Z" creationid="miurahr" creationdate="20141229T015240Z">
+        <seg>(Term)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(会員の資格の喪失)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014945Z" creationid="miurahr" creationdate="20141229T014945Z">
+        <seg>(disqualification)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(入会)</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014855Z" creationid="miurahr" creationdate="20141229T014855Z">
@@ -269,6 +397,30 @@ Section 5. This association announcement shall be done with the official gazette
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012907Z" creationid="miurahr" creationdate="20141229T012907Z">
         <seg>Section 1  A name of the association is 一般社団法人オープンストリートマップ・ファウンデーション・ジャパン(the OpenStreetMap Foundation Japan, General Society Association).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(招集)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015038Z" creationid="miurahr" creationdate="20141229T015038Z">
+        <seg>(Call for meeting)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(構成)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015002Z" creationid="miurahr" creationdate="20141229T015002Z">
+        <seg>(Constituent)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(決議)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015104Z" creationid="miurahr" creationdate="20141229T015104Z">
+        <seg>(Quorum and Voting )</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +478,22 @@ Section 8. The member shall pay an entrance fee and a membership due which separ
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(議事録)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015126Z" creationid="miurahr" creationdate="20141229T015126Z">
+        <seg>(Minutes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(議長)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015055Z" creationid="miurahr" creationdate="20141229T015055Z">
+        <seg>(chairperson)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(退会)</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014909Z" creationid="miurahr" creationdate="20141229T014909Z">
@@ -340,6 +508,22 @@ Section 8. The member shall pay an entrance fee and a membership due which separ
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013825Z" creationid="miurahr" creationdate="20141229T013814Z">
         <seg>(Termination of membership)
 Section 9.  The member may be terminated the membership after giving written notice of the termination by the way which separately determined by the general meeting. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(選任)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015230Z" creationid="miurahr" creationdate="20141229T015230Z">
+        <seg>(Selection)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(開催)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015035Z" creationid="miurahr" creationdate="20141229T015035Z">
+        <seg>(organize)</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,6 +550,22 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012818Z" creationid="miurahr" creationdate="20141229T012818Z">
         <seg>ARTICLE I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>2 前項の規定により議決権を行使した会員は、総会に出席したものとみなす。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015109Z" creationid="miurahr" creationdate="20141229T015109Z">
+        <seg>Section 18.2  A member who act a vote based on section 18 rule  recognized as attend to the general meeting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>2 議事録には、議長及び出席した理事が、記名押印又は署名しなければならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015136Z" creationid="miurahr" creationdate="20141229T015136Z">
+        <seg>Section 21.2. Chairperson and directors who participate the general meeting shall sign and set their seals on the minutes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +650,14 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>前項の総会をもって法人法上の社員総会とする。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015029Z" creationid="miurahr" creationdate="20141229T015029Z">
+        <seg>It shall be as general meeting in the association law</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>第2章 会員</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013507Z" creationid="miurahr" creationdate="20141229T013507Z">
@@ -482,10 +690,98 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>第１１条 前２条のほか、会員は、次のいずれかに該当するに至ったときは、その資格を喪失する。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014947Z" creationid="miurahr" creationdate="20141229T014947Z">
+        <seg>Section 11.  A member  may disqualify its right when it becomes following case;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第１３条　当法人の社員総会は、定時社員総会及び臨時社員総会の２種とする。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015001Z" creationid="miurahr" creationdate="20141229T015001Z">
+        <seg>Section 13. There shall be two types of the general meetings; Annual general meeting and special general meeting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第１４条 社員総会は、正会員をもって構成する。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015004Z" creationid="miurahr" creationdate="20141229T015004Z">
+        <seg>Section 14.  General meeting shall be constituted with general members.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第１５条　定時社員総会は本法人の毎会計年度終了後３ヶ月以内に開催し、臨時社員総会は、必要に応じて開催する。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015037Z" creationid="miurahr" creationdate="20141229T015037Z">
+        <seg>Section 15. The general meeting shall be called in at least 3 month after end of annual year of this association  special general meeting may be called when it is necessary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第１８条 社員総会は正会員の議決権総数の過半数以上の出席で成立し、その議事は出席会員の議決権数の過半数で決するものとする。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015106Z" creationid="miurahr" creationdate="20141229T015106Z">
+        <seg>Section 18.   The quorum of general meeting shall be over a half of voting rights. The  resolution  is decided by a majority of voting rights.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第１９条 社員総会に出席できない会員は、予め通知された事項について書面または理事会が定める電磁的方法をもって議決権を行使し、又は他の正会員を代理人として議決権を行使することができる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015111Z" creationid="miurahr" creationdate="20141229T015111Z">
+        <seg>Section19 A member who cannot attend the general meeting can act a right to vote by a way that is notified in advance or an electrical way that is defined beforehand in the board of director,  or other member can act as proxy of the member as a delegate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>第２条 当法人は、主たる事務所を東京都北区に置く。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011424Z" creationid="miurahr" creationdate="20141229T011424Z">
         <seg>Section 2.  The principal office for the transaction of the business of this association shall be located in the Kita city of Tokyo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第２０条 社員総会は法令及び本定款に別に定める事項のほか次の事項を議決する。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015113Z" creationid="miurahr" creationdate="20141229T015113Z">
+        <seg>Section 20. Following items shall be decided by a general meeting, addition with the items,  prescribed  in law and defined in another part of  this bylaw;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第２１条 社員総会の議事については、次の事項、その他法令に定める事項を記載した議事録を作成しなければならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015128Z" creationid="miurahr" creationdate="20141229T015128Z">
+        <seg>Section 21. This association shall make minutes of general meeting includes following items and other items defined in the law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第２２条 当法人に次の役員を置く。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015143Z" creationid="miurahr" creationdate="20141229T015143Z">
+        <seg>Section 22. This association has following officers;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第２３条 理事、監事は総会においてこれを選任する。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015232Z" creationid="miurahr" creationdate="20141229T015232Z">
+        <seg>Section 23. General meeting shall select directors and auditor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第２４条 理事の任期は、選任後２年以内に終了する事業年度のうち最終のものに関する定時社員総会の終決の時までとし、再任を妨げない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015242Z" creationid="miurahr" creationdate="20141229T015242Z">
+        <seg>Section 24. Term of director shall be until the time of closing of general meeting of the latest annual year that  is finished less than two years from the day  selected. Director may be re-selected.</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,10 +794,26 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>第３章 社員総会</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014959Z" creationid="miurahr" creationdate="20141229T014959Z">
+        <seg>ARTICLE III  GENERAL MEETING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>第４条 当法人は、第３条に定める目的に資するため、次の事業を行う。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014808Z" creationid="miurahr" creationdate="20141229T014808Z">
         <seg>Section 4. The association shall conduct the following business to pursue the purpose defined in section 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第４章 役員</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015139Z" creationid="miurahr" creationdate="20141229T015139Z">
+        <seg>ARTICLE IV  Officers</seg>
       </tuv>
     </tu>
     <tu>
@@ -579,6 +891,14 @@ Section 6. There shall be three classes of membership in this corporation as fol
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>２ 理事のうち、理事のいずれかの１名とその配偶者又は３親等内の親族その他特別の関係にある者の合計数は、理事総数の３分の１を超えてはならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015235Z" creationid="miurahr" creationdate="20141229T015235Z">
+        <seg>Section 23.2.  Number of directors, who is a spouse,  or is a family in degree of  relationship is equal or  lower than three, and an other special relationship with other director, shall not be more than  ⅓ of number of all directors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>２ 理事会は、正当な事由がない限り、前項の者の入社を認めなければならない。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013732Z" creationid="miurahr" creationdate="20141229T013732Z">
@@ -587,10 +907,26 @@ Section 6. There shall be three classes of membership in this corporation as fol
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>２ 総正会員の議決権の５分の１以上を有する正会員は、代表理事に対し、社員総会の目的である事項及び招集の理由を示して、社員総会招集の請求をすることができる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015052Z" creationid="miurahr" creationdate="20141229T015052Z">
+        <seg>Section 16.2.  A general member who has endorsements of  ⅕ of voting rights can request a call of   general meeting to the representative director,  with submitting a purpose and a reason.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>２　当法人は、社員総会の決議により従たる事務所を必要な場所に置くことができる。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012929Z" creationid="miurahr" creationdate="20141229T012929Z">
         <seg>Section 2.2 Branch or subordinate offices may at any time be established by the resolution of the General Meeting at any place or places where this association  is qualified to do business.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>３ 監事は、理事又は当法人の事務局職員を兼ねてはならない</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015238Z" creationid="miurahr" creationdate="20141229T015238Z">
+        <seg>Section 23.3.  Auditor shall not be hold director or officer post in this association.</seg>
       </tuv>
     </tu>
     <tu>
