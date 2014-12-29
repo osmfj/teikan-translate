@@ -1,0 +1,429 @@
+Articles of incorporation of the OpenStreetMap Foundation Japan, General Society Association
+
+ARTICLE I  GENERAL PROVISIONS
+
+(Name)
+
+Section 1  A name of the association is 一般社団法人オープンストリートマップ・ファウンデーション・ジャパン(the OpenStreetMap Foundation Japan, General Society Association).  An Abbreviation is OSMFジャパン(OSMF JAPAN) and English name is OpenStreetMap Foundation Japan (Abbreviation: OSMF Japan, synonym: OSMFJ).
+
+(Office)
+
+Section 2.  The principal office for the transaction of the business of this association shall be located in the Kita city of Tokyo.
+Section 2.2 Branch or subordinate offices may at any time be established by the resolution of the General Meeting at any place or places where this association  is qualified to do business.
+
+(Objective)
+
+Section 3. This association is a nonprofit mutual benefit corporation, that  sympathize the purpose of OSM  to aim to build and to promote free geospatial information in world wide,  and promote a development of  free geospatial global information in Japan and in Japanese, and promote technical innovation through OSM activities.  We also shall collaborate with the OpenStreetMap Foundation(found in 26th, August 2006 in UK)(Abbreviation: OSMF) The purposes of this association include growing healthy community, promoting free geospatial information, and encourage academic, science  and technology improvement through promoting OSM utilization, and protecting the freedom of expression.
+
+(Business)
+
+Section 4. The association shall conduct the following business to pursue the purpose defined in section 3.
+
+(1)Publicity and public relation as a representative contact in Japan.
+
+(2)Research and development around OSM
+
+(3)Promotion, enlightenment and advertisement
+
+(4)Support and subsidy for regional activities
+
+(5)Cooperation with the associations related to the OSM for OSM improvement
+
+(6)Protecting and managing the intellectual properties  related to the OSM in Japan
+
+(7)Protecting and managing the internet domain name in Japan
+
+(8)Any other business incidental or relating to the businesses referred to in any of the foregoing items.
+
+(Announcement)
+
+Section 5. This association announcement shall be done with the official gazette.
+
+ARTICLE II MEMBERSHIP
+
+(Type of meetings)
+
+(Class of membership)
+Section 6. There shall be three classes of membership in this corporation as follows. The general member shall be recognized as employee in the law of the general society association and general foundation association (Law No48, Heisei 18 yr.)(hereafter the association law ).  It shall be called as the General Association Law.
+
+(1) General member   natural person  who approve the purpose of this association
+
+(2)Supporting member  natural person or legal person who support the business of this association
+
+(3)Special member   natural person or legal person admit the Board to be necessary for the operation, who selected from  public body, public-service corporation and/or similar corporation.
+
+(Admission)
+
+Section 7. Admission of members shall be made by the Board upon a determination by the Executive Director that the member meets the qualifications established for membership as set forth in these Bylaws.
+
+Section 7.2  The board shall admit a person in previous section except for fair reason.
+
+Section 7.3.  The board shall notify the reason by letter, as soon as possible, to an original person, when the board decided not to admit.
+
+(Dues and Fees)
+
+Section 8. The member shall pay an entrance fee and a membership due which separately determined by the general meeting
+
+(Termination of membership)
+
+Section 9.  The member may be terminated the membership after giving written notice of the termination by the way which separately determined by the general meeting.  The member shall foretell it  at least 1 month before the day  about to be  terminated.
+
+Section 9.２ A member who is dissoluted or bankrupted is recognized as withdrawal from this association. However, when a member company was dissolved by merger and aquicition, if a member ask to continue, these duty and right are transfered to a new company. 
+
+(Expulsion)
+
+Section 10.  Expulsion of a member can be decided by a special resolution of a general meeting, in a situations as follows:
+
+(1) Who violate this bylaw and/or other rules
+
+(2)Who libeled this association and/or act  against the purpose of  this association remarkably
+
+(3) When there is rightful reason to be expulsion.
+
+(disqualification)
+
+Section 11.  A member  may disqualify its right when it becomes following case;
+
+(1) When payment of membership due was delayed over a year after settlement date for payment
+
+(2) When the member was in mortality or abscondence, or the corporate member become dissoution.
+
+(Duty and rights on disqualification)
+
+Section 12 When member disqualify its membership according to secton 9, 10 or 11, its right of membership shall be lost, and its duty shall be exempted. However, duty not to disclose and duty for nonperformance shall not be exempted.
+
+Section 12.２  Even when member disqulify its membershi, this association shall not return its entrance fee and membership due, or other fund and goods that has already been supplied without exception.
+
+ARTICLE III  GENERAL MEETING
+
+(Type of meetings)
+
+Section 13. There shall be two types of the general meetings; Annual general meeting and special general meeting
+
+(Constituent)
+
+Section 14.  General meeting shall be constituted with general members.
+
+2. It shall be as general meeting in the association law
+
+(organize)
+
+Section 15. The general meeting shall be called in at least 3 month after end of fiscal year of this association  special general meeting may be called when it is necessary.
+
+(Call for meeting)
+
+Section 16 The general meeting shall be called by representative director, without a provision of the law particularly. The representative director shall notify  the meeting to general members  in at least 2 week before the meeting date, attached a document or electronic document with meeting date, location and agenda.
+
+Section 16.2.  A general member who has endorsements of  ⅕ of voting rights can request a call of   general meeting to the representative director,  with submitting a purpose and a reason.
+
+(chairperson)
+
+Section 17  Representative director take a role of a chairperson of the general meeting.  When there is a problem with representative director, a chairperson shall be selected from general member who attend the general meeting.
+
+(Quorum and Voting )
+
+Section 18.   The quorum of general meeting shall be over a half of voting rights. The  resolution  is decided by a majority of voting rights.
+
+Section 18.2  A member who act a vote based on section 18 rule  recognized as attend to the general meeting.
+
+Section19 A member who cannot attend the general meeting can act a right to vote by a way that is notified in advance or an electrical way that is defined beforehand in the board of director,  or other member can act as proxy of the member as a delegate.
+
+Section 18.2  A member who act a vote based on section 18 rule  recognized as attend to the general meeting.
+
+Section 20. Following items shall be decided by a general meeting, addition with the items,  prescribed  in law and defined in another part of  this bylaw;
+
+(1) Change of bylaws
+
+(2) dissolution and merger of this association
+
+(3) business  and budget plan
+
+(4) business report and statement of account
+
+(5) selection, dismissal and reward of officers
+
+(6) Any other important issues of business on this association, that board  of directors admit
+
+(Minutes)
+
+Section 21. This association shall make minutes of general meeting includes following items and other items defined in the law.
+
+(1) Date and place
+
+(2) Number of general members and number of participants ( Addition with number of delegates and proxies)
+
+(3)  discussion items
+
+(4) Result and abstract of discussion process
+
+Section 21.2. Chairperson and directors who participate the general meeting shall sign and set their seals on the minutes.
+
+ARTICLE IV  Officers
+
+(Type of meetings)
+
+Section 22. This association has following officers;
+
+(1) Directors: three to fifteen persons
+
+(2) Auditor: one person
+
+(Selection)
+
+Section 23. General meeting shall select directors and auditor
+
+Section 23.2.  Number of directors, who is a spouse,  or is a family in degree of  relationship is equal or  lower than three, and an other special relationship with other director, shall not be more than  ⅓ of number of all directors.
+
+Section 23.3.  Auditor shall not be hold director or officer post in this association.
+
+(Term)
+
+Section 24. Term of director shall be until the time of closing of general meeting of the latest annual year that  is finished less than two years from the day  selected. Director may be re-selected.
+
+Section 24.2.  Term of auditor shall be until the time of closing of general meeting of latest annual year that is finished less than two years from the day selected. Auditor may be re-selected.
+
+Section 24.3. Term of director, who is selected to fill vacancy or to rise number of officers, is as same as predecessor or current directors. Term of auditor, who is selected to fill vacancy, is as same as predecessor.
+
+Section 24.4. Officers, who is resigned or expired its term, shall continue its business until successor is selected, when number of officer is less than its quota.
+
+(Duty)
+
+Section 25. Director shall organize board of directors and plan and execution of the business.
+
+Section 25.2. The board of directors shall select a representative director and one or two vice chairperson.
+
+Section 25.3. Representative director represent this association by law and this article, and administrate its business.
+
+Section 25.4. Vice chairperson shall assist representative director and delegate its business, when representative director take accident or  pass away. When there exist multiple vice chairperson, selection order shall be predefined by the representative director.
+
+Section 25.5.  Representative director and directors of the association shall report their results of operations to the board in equal or more than two times in its annual years, no earlier than 4 month from previous report.
+
+Section 25.6 Auditor shall autit a process of operations, finance and accounting.
+
+(Dismiss)
+
+Section 26.  Directors may be dismissed at any time by a resolution of the General Meeting of members when he/she has become in following situations:
+
+(1)He/she has been  definitely difficult to continue his/her duties and operations by its injury on mentally or physically.
+
+(2)He/she has violated or neglected his/her official duties
+
+(Compensation)
+
+Section 27.  Officers may be paid.
+
+Section 27.2.  Officers may be compensated for their cost to execute business.
+
+Section 27.3.   Details of previous two article shall be decided by representative director, on resolution  of general meeting.
+
+(Exemption part of the liability of officers)
+
+Section 28.  This association may exempt the liability of directors of the Corporation Law No. 111, paragraph 1, if it satisfies the requirements stipulated to by law, by resolution of general meeting, as  limit the amount obtained by deducting the minimum liability amount stipulated in laws and regulations from the liability amount.
+
+Section 29. This association may exempt the liability of directors, if applicable to the requirements stipulated in laws and regulations, by resolution of the Board of Directors, as limit the amount obtained by deducting the minimum liability amount stipulated in laws and regulations from the liability amount.
+
+ARTICLE  V  Board of directors
+
+(Constituent)
+
+Section 30. Board of directors shall consist of directors.
+
+(Commission)
+
+Section 31. Board of directors shall resolve following issues addition to the items the law requested and defined in other part of the bylaws.
+
+(1)Agenda items of the general meeting
+
+(2) Enforcement of the items that are decided by the general meeting
+
+(3)In additions, items of business execution that is not necessary to be decided by the general meeting  
+
+(organize)
+
+Section 32.　Board of directors shall hold a meeting when representative director or  all director requested,  or when more than half number of director request a  meeting with a purpose. It shall be held in 4 times per year.
+
+(Call for meeting)
+
+Section 33. Board of directors shall be called by representative director, except for the law required, and representative director shall become chairperson.  When calling board of directors, notification shall be sent to directors and auditors by a letter or an electrical way with date, time, place and agenda items, no later than one week before the day the meeting called. When representative director or directors admitted to call urgently, it may be called in shorter term.
+
+(Quorum, Resolution and omission)
+
+Section 34. Quorum of board of directors shall be  more than half number of directors who can be applied to resolution,  and decided by majority.
+
+Section 34.２  When director who is absent to board of directors can present itself on discussion with the electro-magnetic way, it shall be able to vote to agenda with the electro-magnetic way. And the director who vote with the electro-magnetic way shall be recognized as attendance on board of directors. However auditor may object it.
+
+Section 34.3 When one of director proposed items for board meeting, and all directors who can participate to vote can consent on intent with letter or electoro-magnetic way, the proposal shall be recognized as same as approved by vote on board meeting. However auditor may object it.
+
+(Minutes)
+
+Section 35 Minutes shall be made with following items and the items determined by the law.
+
+(1) Date and place
+
+(2) Number of participated directors and its total
+
+(3)  discussion items
+
+(4) Result and abstract of discussion process
+
+Section 35.2  All directors and auditor participated shall sign and seal on the minutes.
+
+ARTICLE IV  Fund
+
+(Recruitment of those who undertake the fund)
+
+Section 36. This association may recruit those who undertake the fund
+
+(Rights of fund contributors)
+
+Section 37.
+
+Contributed fund  shall not be return until this association dissolved.
+
+(Procedure of fund return)
+
+Section 38 Procedures for the return of the fund shall be specified by the liquidator separately about place, a way and other necessary matters for returning the fund, in accordance with the provisions of general corporate law.
+
+ARTICLE IIV Accounting
+
+（Annual year)
+
+(Business plan and accounting plan)
+
+Section 40.  Business plan and accounting plan of this association shall be made by representative director and shall be resolved by general meeting.
+
+(Interim accounting plan)
+
+Section 41. Notwithstanding the provisions of the preceding Article, when the balance budget is not satisfied due to unavoidable reasons, representative director may execute business and constitute a provisional budget according to the previous year's budget until the day of the accounting plan established,  through a resolution of the Board of Directors, .
+
+Section 41.2  Incomes and costs on the interim account plan shall be recognized as a part of authorized account plan.
+
+(Business and financial report)
+
+Section 42.  Annual business report and annual financial report  includes following items shall be made by representative director for its annual business year. It also shall be published or conducted to annual general meeting after each end of annual business year.
+
+(1)Business report and its detail descriptions
+
+(2)Balance sheet, profit-and-loss statement and its detail descriptions
+
+Section 42.2  Business report shall be reported to annual general meeting by representative director.
+
+Section 42.3  Balance sheet and profit-and-loss statement shall be approved by annual general meeting.
+
+(Prohibit to dividend of surplus)
+
+Section 43. This association should not pay dividend of surplus.
+
+(Special account)
+
+Section 44. This association may have a special account when it is necessary by approval of board of directors.
+
+ARTICLE IIX Change of articles and dissolution
+
+(Change of bylaws)
+
+Section 45.  This bylaws may change by approval of general meeting according to the corporation law.
+
+(Dissolution)
+
+Section 46. This association may dissolve,  by a super majority of number of  vote rights of members and more than half of number of members on general meeting,  or by a reason provide by the Section 148.1, 148.2,  and from 148.4 to 148.7 of the Corporation law.
+
+(Disposition of remaining asset)
+
+Section 47 When this association become dissolution, its remaining asset shall donate to public  association, that is public corporation defined in section 5.17 of the public authorization law, or to special non-profit corporation (limited to one which approved by section 66.11.2.3 of special taxation measurement law),  by approval of the general meeting. The public authrization law is abreviation of  Act on the Authorization, etc. of Public-interest Incorporated Associations and Public-interest Incorporated Foundation.
+
+ARTICLE IX  Secretariat
+
+(Setup of secretariat)
+
+Section 48. This association may have a secretariat for office work.
+
+Section 48.2 There may be a secretary-general and staffs in a  secretariat.
+
+(Appointment and dismissal of staffs)
+
+Section 49. Representative director shall appoint and dismiss a secretary-general and staffs with approval by the board of directors.
+
+(Organization and operation)
+
+Section 50 Items which are required to operate and its organization shall be decided by the representative director with resolution of the general meeting.
+
+ARTICLE X Miscellaneous
+
+(detailed regulations)
+
+Section 51 Matters to execute this articles of incorporation shall be decided separately with resolution on board of directors.
+
+(First fiscial year)
+
+Section 52  First fiscal year of this association shall be from the day of establishment to end of October, 2011.
+
+(Officers on establishment)
+
+Section 53  Officers on establishment are as follows:
+
+     Director  Toshihisa Tanaka
+
+     Director Tomomichi Hayakawa
+
+     Director  Kinya Inoue
+
+     Director Kimiya Fujisawa
+
+     Director Taichi Furuhashi
+
+     Director Hiroshi Miura
+
+     Representative Director Hiroshi Miura
+
+     Vice-president　Taichi Furuhashi
+
+     Vice-president  Kimiya Fujisawa
+
+     Auditor Kentaro Hatori
+
+(Founding members)
+
+Section 54  Each name and address of the founding members are as follows:
+
+    xxxxxxxxxxxxxxxxxx
+
+     Founding member: Kimiya Fujisawa
+
+    xxxxxxxxxxxxxxxxxx
+
+     Founding member: Shusaku Higashi
+
+(comformance of  the law)
+
+Section 55  All matters  which are not defined here shall be  followed the law of the general society association and general foundation association(Law No48, Heisei 18 yr.), and other laws.
+
+
+January 30th, 2013
+
+
+
+This text is an article of incorporationof this general society association.
+
+（Address）1-X-X-XXX, Kamiya, Kita-city, Tokyo
+
+（name of company）﻿the OpenStreetMap Foundation Japan, General Society Association
+
+Representative director  Hiroshi Miura　　　　(seal)
+
+Over the above memtioned, we have created the articles of incorporation and have sealed by founding members, in order to establish ﻿the OpenStreetMap Foundation Japan, General Society Association.
+
+December 20th, 2010
+
+Fonding member: Kimiya Fujisawa　　(seal)
+
+Founding member:  Shusaku Higashi　　　(seal)
+
+
+
+log of revisions
+
+December 20th, 2010,  Articles of incorporation on establishment
+
+January 13th, 2013,  A revision approved in Second general meeting.
+
