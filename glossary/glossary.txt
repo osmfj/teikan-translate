@@ -9,3 +9,8 @@
 一般社団法人及び一般財団法人に関する法律	the law of the general society association and general foundation association
 定款	bylaw
 法人法	the association law
+代表理事	representative director
+理事会	board of directors
+理事会	board meeting
+損益計算書	profit-and-loss statement
+貸借対照表	balance sheet
