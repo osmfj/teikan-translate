@@ -940,8 +940,8 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
       <tuv lang="JA">
         <seg>ただし、監事が異議を述べたときは、この限りではない。</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T234214Z" creationid="miurahr" creationdate="20141229T234214Z">
-        <seg>However auditor may object it and recognize it as absence.</seg>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T234622Z" creationid="miurahr" creationdate="20141229T234214Z">
+        <seg>However auditor may object it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,6 +1086,14 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T023636Z" creationid="miurahr" creationdate="20141229T023636Z">
         <seg>This text is an article of incorporationof this general society association.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>理事会において、その構成員が会議の決議の目的である事項について提案した場合において、その提案について、議決に加わることのできる構成員の全員が書面又は電磁的記録により同意の意思表示をしたときは、その提案を可決する旨の会議の決議があったものとみなす。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T234603Z" creationid="miurahr" creationdate="20141229T234603Z">
+        <seg>When one of director proposed items for board meeting, and all directors who can participate to vote can consent on intent with letter or electoro-magnetic way, the proposal shall be recognized as same as approved by vote on board meeting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1342,6 +1350,14 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T015527Z" creationid="miurahr" creationdate="20141229T015527Z">
         <seg>Section 34. Quorum of board of directors shall be  more than half number of directors who can be applied to resolution,  and decided by majority.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第３５条 理事会の議事については、法令に定める事項及び次の事項を記載した議事録を作成しなければならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T234707Z" creationid="miurahr" creationdate="20141229T234707Z">
+        <seg>Section 35 Minutes shall be made with following items and the items determined by the law.</seg>
       </tuv>
     </tu>
     <tu>
