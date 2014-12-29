@@ -14,3 +14,4 @@
 理事会	board meeting
 損益計算書	profit-and-loss statement
 貸借対照表	balance sheet
+印	seal
