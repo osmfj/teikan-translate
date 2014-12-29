@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="JA">
+        <seg>(1)OSMFの日本国内における代表窓口としての広報活動や外部組織対応</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014813Z" creationid="miurahr" creationdate="20141229T014813Z">
+        <seg>(1)Publicity and public relation as a representative contact in Japan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(1)OSMFの日本国内における代表窓口としての広報活動や外部組織対応
 (2)OSMに関する研究調査活動
 (3)OSMに関する普及・啓発・宣伝活動
@@ -29,6 +37,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(1)本定款その他の規約に違反したとき</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014938Z" creationid="miurahr" creationdate="20141229T014938Z">
+        <seg>(1) Who violate this bylaw and/or other rules</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(1)本定款その他の規約に違反したとき
 (2)当法人の名誉を棄損又は当法人の目的に著しく反する行為をしたとき
 (3)その他除名すべき正当な事由があるとき</seg>
@@ -37,6 +53,14 @@
         <seg>(1) Who violate this bylaw and/or other rules
 (2) Who libeled this association and/or act  against the purpose of  this association remarkably
 (3)When there is rightful reason to be expulsion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(1)正会員　当法人の目的に賛同し入会した個人</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014848Z" creationid="miurahr" creationdate="20141229T014848Z">
+        <seg>(1) General member   natural person  who approve the purpose of this association</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,10 +90,42 @@ Section 7. Admission of members shall be made by the Board upon a determination 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(2)OSMに関する研究調査活動</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014816Z" creationid="miurahr" creationdate="20141229T014816Z">
+        <seg>(2)Research and development around OSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(2)賛助会員　当法人の事業を援助するために入会した個人又は法人</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014850Z" creationid="miurahr" creationdate="20141229T014850Z">
+        <seg>(2)Supporting member  natural person or legal person who support the business of this association</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(3)OSM&lt;/f5&gt;&lt;f7&gt;に関する普及・啓発・宣伝活動&lt;/f7&gt;&lt;f8&gt;&lt;br9/&gt;</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012351Z" creationid="miurahr" creationdate="20141229T012351Z">
         <seg>(3)OSM&lt;/f5&gt;&lt;f7&gt;Promotion, enlightenment and advertisement&lt;/f7&gt;&lt;f8&gt;&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(3)OSMに関する普及・啓発・宣伝活動</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014820Z" creationid="miurahr" creationdate="20141229T014820Z">
+        <seg>(3)Promotion, enlightenment and advertisement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(3)特別会員　当法人の運営に必要であると理事会が認める公共団体、公益法人もしくはこれに準じる法人の中から選ばれた個人又は法人</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014853Z" creationid="miurahr" creationdate="20141229T014853Z">
+        <seg>(3)Special member   natural person or legal person admit the Board to be necessary for the operation, who selected from  public body, public-service corporation and/or similar corporation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +138,14 @@ Section 7. Admission of members shall be made by the Board upon a determination 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(4)OSMに関する地域活動に対して必要な助成、支援</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014822Z" creationid="miurahr" creationdate="20141229T014822Z">
+        <seg>(4)Support and subsidy for regional activities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(5)OSM&lt;/f11&gt;&lt;f13&gt;の発展のために、&lt;/f13&gt;&lt;f14&gt;OSM&lt;/f14&gt;&lt;f15&gt;に関連する諸団体との連携活動&lt;/f15&gt;&lt;f16&gt;&lt;br17/&gt;</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012508Z" creationid="miurahr" creationdate="20141229T012508Z">
@@ -90,10 +154,42 @@ Section 7. Admission of members shall be made by the Board upon a determination 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(5)OSMの発展のために、OSMに関連する諸団体との連携活動</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014824Z" creationid="miurahr" creationdate="20141229T014824Z">
+        <seg>(5)Cooperation with the associations related to the OSM for OSM improvement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(6)OSM&lt;/f16&gt;&lt;f18&gt;に関わる知的財産権の日本国における保護と維持管理&lt;/f18&gt;&lt;f19&gt;&lt;br20/&gt;</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T012557Z" creationid="miurahr" creationdate="20141229T012557Z">
         <seg>(6)&lt;/f16&gt;&lt;f18&gt;Protecting and managing the intellectual properties  related to the OSM in Japan&lt;/f18&gt;&lt;f19&gt;&lt;br20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(6)OSMに関わる知的財産権の日本国における保護と維持管理</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014825Z" creationid="miurahr" creationdate="20141229T014825Z">
+        <seg>(6)Protecting and managing the intellectual properties  related to the OSM in Japan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(7)OSMの日本におけるインターネット・ドメイン名の保護と維持管理</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014827Z" creationid="miurahr" creationdate="20141229T014827Z">
+        <seg>(7)Protecting and managing the internet domain name in Japan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(8)前各号に掲げる事業に附帯又は関連する一切の事業</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014829Z" creationid="miurahr" creationdate="20141229T014829Z">
+        <seg>(8)Any other business incidental or relating to the businesses referred to in any of the foregoing items.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108,12 +204,44 @@ Section 2.  The principal office for the transaction of the business of this as
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(事務所)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014746Z" creationid="miurahr" creationdate="20141229T014746Z">
+        <seg>(Office)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(事業)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014804Z" creationid="miurahr" creationdate="20141229T014804Z">
+        <seg>(Business)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(事業)
 第４条 当法人は、第３条に定める目的に資するため、次の事業を行う。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013059Z" creationid="miurahr" creationdate="20141229T013059Z">
         <seg>(Business)
 Section 4. The association shall conduct the following business to pursue the purpose defined in section 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(入会)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014855Z" creationid="miurahr" creationdate="20141229T014855Z">
+        <seg>(Admission)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(公告)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014831Z" creationid="miurahr" creationdate="20141229T014831Z">
+        <seg>(Announcement)</seg>
       </tuv>
     </tu>
     <tu>
@@ -128,6 +256,14 @@ Section 5. This association announcement shall be done with the official gazette
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(名称)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014703Z" creationid="miurahr" creationdate="20141229T014703Z">
+        <seg>(Name)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(名称)
 第１条 当法人の名称は、一般社団法人オープンストリートマップ・ファウンデーション・ジャパンと称する。</seg>
       </tuv>
@@ -137,11 +273,27 @@ Section 5. This association announcement shall be done with the official gazette
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(目的)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014750Z" creationid="miurahr" creationdate="20141229T014750Z">
+        <seg>(Purpose)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(目的)
 第３条 当法人は、自由な地図情報の構築と普及のために世界的に活動するオープンストリートマップ(通称:OSM)の活動趣旨に賛同し、日本国における自由な地図情報および日本語による世界の自由な地図情報の発展とそれに伴う技術発展を促進するとともに、オープンストリートマップ財団（2006年8月26日設立、本部:グレート・ブリテンおよび北アイルランド連合王国）(英語名称: OpenStreetMap Foundation, 略称：OSMF)と連携して、健全なるコミュニティーの発展と自由な地図情報の推進を図ると共に、OSMの利用の促進によって、学術および科学技術の振興と、表現の自由の尊重と擁護、地域社会の健全な発展に資することを目的とし、次の事業を行う。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013001Z" creationid="miurahr" creationdate="20141229T013001Z">
         <seg>(Purpose) Section 3. This association is a nonprofit mutual benefit corporation, that  sympathize the purpose of OSM  to aim to build and to promote free geospatial information in world wide,  and promote a development of  free geospatial global information in Japan and in Japanese, and promote technical innovation through OSM activities.  We also shall collaborate with the OpenStreetMap Foundation(found in 26th, August 2006 in UK)(Abbreviation: OSMF) The purposes of this association include growing healthy community, promoting free geospatial information, and encourage academic, science  and technology improvement through promoting OSM utilization, and protecting the freedom of expression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(種別)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014837Z" creationid="miurahr" creationdate="20141229T014837Z">
+        <seg>(Type of meetings)</seg>
       </tuv>
     </tu>
     <tu>
@@ -156,6 +308,14 @@ Section 6. There shall be three classes of membership in this corporation as fol
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(経費負担)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014904Z" creationid="miurahr" creationdate="20141229T014904Z">
+        <seg>(Dues and Fees)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(経費負担)
 第８条 会員は、社員総会において別に定める入会金及び会費を納入しなければならない。</seg>
       </tuv>
@@ -166,12 +326,28 @@ Section 8. The member shall pay an entrance fee and a membership due which separ
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>(退会)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014909Z" creationid="miurahr" creationdate="20141229T014909Z">
+        <seg>(Termination of membership)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>(退会)
 第９条 会員は、社員総会において別に定めるところにより届け出ることにより、任意に退会することができる。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T013825Z" creationid="miurahr" creationdate="20141229T013814Z">
         <seg>(Termination of membership)
 Section 9.  The member may be terminated the membership after giving written notice of the termination by the way which separately determined by the general meeting. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(除名)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014926Z" creationid="miurahr" creationdate="20141229T014926Z">
+        <seg>(Expulsion)</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,10 +458,91 @@ Section 10.  Expulsion of a member can be decided by a special resolution of a 
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>第一章 総則</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014736Z" creationid="miurahr" creationdate="20141229T014736Z">
+        <seg>ARTICLE I  GENERAL PROVISIONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第１条 当法人の名称は、一般社団法人オープンストリートマップ・ファウンデーション・ジャパンと称する。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014659Z" creationid="miurahr" creationdate="20141229T014659Z">
+        <seg>Section 1  A name of the association is 一般社団法人オープンストリートマップ・ファウンデーション・ジャパン(the OpenStreetMap Foundation Japan, General Society Association).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第１０条 会員が、次のいずれかに該当するに至ったときは、社員総会の特別決議によって当該会員を除名することができる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014928Z" creationid="miurahr" creationdate="20141229T014928Z">
+        <seg>Section 10.  Expulsion of a member can be decided by a special resolution of a general meeting, in a situations as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>第２条 当法人は、主たる事務所を東京都北区に置く。</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T011424Z" creationid="miurahr" creationdate="20141229T011424Z">
         <seg>Section 2.  The principal office for the transaction of the business of this association shall be located in the Kita city of Tokyo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第３条 当法人は、自由な地図情報の構築と普及のために世界的に活動するオープンストリートマップ(通称:OSM)の活動趣旨に賛同し、日本国における自由な地図情報および日本語による世界の自由な地図情報の発展とそれに伴う技術発展を促進するとともに、オープンストリートマップ財団（2006年8月26日設立、本部:グレート・ブリテンおよび北アイルランド連合王国）(英語名称: OpenStreetMap Foundation, 略称：OSMF)と連携して、健全なるコミュニティーの発展と自由な地図情報の推進を図ると共に、OSMの利用の促進によって、学術および科学技術の振興と、表現の自由の尊重と擁護、地域社会の健全な発展に資することを目的とし、次の事業を行う。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014801Z" creationid="miurahr" creationdate="20141229T014801Z">
+        <seg>Section 3. This association is a nonprofit mutual benefit corporation, that  sympathize the purpose of OSM  to aim to build and to promote free geospatial information in world wide,  and promote a development of  free geospatial global information in Japan and in Japanese, and promote technical innovation through OSM activities.  We also shall collaborate with the OpenStreetMap Foundation(found in 26th, August 2006 in UK)(Abbreviation: OSMF) The purposes of this association include growing healthy community, promoting free geospatial information, and encourage academic, science  and technology improvement through promoting OSM utilization, and protecting the freedom of expression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第４条 当法人は、第３条に定める目的に資するため、次の事業を行う。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014808Z" creationid="miurahr" creationdate="20141229T014808Z">
+        <seg>Section 4. The association shall conduct the following business to pursue the purpose defined in section 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第５条　当法人の公告は、官報に掲載する方法により行う。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014834Z" creationid="miurahr" creationdate="20141229T014834Z">
+        <seg>Section 5. This association announcement shall be done with the official gazette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第６条　当法人の会員は次の３種とし、正会員をもって一般社団法人及び一般財団法人に関する法律(平成18年法律第48号)(以下「法人法」という。) 上の社員とする。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014842Z" creationid="miurahr" creationdate="20141229T014842Z">
+        <seg>(Class of membership)
+Section 6. There shall be three classes of membership in this corporation as follows. The general member shall be recognized as employee in the law of the general society association and general foundation association (Law No48, Heisei 18 yr.)(hereafter the association law ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第７条 当法人の会員として入会しようとする者は、理事会の定める手続により、申し込み、理事会の承認を得なければならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014859Z" creationid="miurahr" creationdate="20141229T014859Z">
+        <seg>Section 7. Admission of members shall be made by the Board upon a determination by the Executive Director that the member meets the qualifications established for membership as set forth in these Bylaws.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第８条 会員は、社員総会において別に定める入会金及び会費を納入しなければならない。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014907Z" creationid="miurahr" creationdate="20141229T014907Z">
+        <seg>Section 8. The member shall pay an entrance fee and a membership due which separately determined by the general meeting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第９条 会員は、社員総会において別に定めるところにより届け出ることにより、任意に退会することができる。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="miurahr" changedate="20141229T014916Z" creationid="miurahr" creationdate="20141229T014916Z">
+        <seg>Section 9.  The member may be terminated the membership after giving written notice of the termination by the way which separately determined by the general meeting. </seg>
       </tuv>
     </tu>
     <tu>
